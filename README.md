@@ -27,7 +27,12 @@ International Conference on Acoustics, Speech, and Signal Processing, 2025
 * Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration  
 Yilin Zhao, **Qing Zhang***, Yuetong Li   
 International Conference on Acoustics, Speech, and Signal Processing, 2025  
-<br/> 
+<br/>    
+
+* FLRNet: A Bio-inspired Three-stage Network for Camouflaged Object Detection via Filtering, Localization and Refinement   
+Yilin Zhao, **Qing Zhang***, Yuetong Li   
+Neurocomputing, 2025   
+<br/>    
 
 * HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation  
 Zhoujie Xu, Meng Dai*, **Qing Zhang**, Xiaodi Jiang  
