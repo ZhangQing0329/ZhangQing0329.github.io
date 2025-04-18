@@ -16,12 +16,12 @@ Selected Papers
 Yuetong Li, Yilin Zhao, **Qing Zhang***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
 [\[Code\]](https://github.com/iuueong/FPDNet)   
-<br/>    
+   
 **Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning**   
 Chenxi Zhang, **Qing Zhang***, Jiayun Wu  
-International Conference on Acoustics, Speech, and Signal Processing (_**ICASSP**_), 2025    
+International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025    
 [\[Code\]](https://github.com/bbdjj/FBINet) [\[PDF\]](https://ieeexplore.ieee.org/document/10889016)    
-<br/>   
+      
 **Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection**  
 Rui Zhao, Yuetong Li, **Qing Zhang***, Xinyi Zhao    
 Knowledge-Based Systems (***KBS***), 2025, 314: 113158    
