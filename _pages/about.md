@@ -16,9 +16,15 @@ Selected Papers
 ======
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**    
 Yuetong Li, Yilin Zhao, **Qing Zhang***, Qiangqiang Zhou, Yanjiao Shi      
-IEEE International Conference on Multimedia & Expo (**ICME**), 2025   
+IEEE International Conference on Multimedia & Expo (**_ICME_**), 2025   
 [\[Code\]](https://github.com/iuueong/FPDNet)   
 <br/>
+
+**FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
+Qiang Yu, **Qing Zhang***, Yanjiao Shi, Qiangqiang Zhou      
+International Joint Conference on Neural Networks (**IJCNN**), 2025    
+[\[Code\]](https://github.com/ZhangQing0329/FGNet)   
+<br/> 
 
 
 <div style="display:none">
