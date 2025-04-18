@@ -14,14 +14,19 @@ Selected Papers
 ======
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**    
 Yuetong Li, Yilin Zhao, **Qing Zhang***, Qiangqiang Zhou, Yanjiao Shi      
-IEEE International Conference on Multimedia & Expo (_**ICME**_), 2025    
+IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
 [\[Code\]](https://github.com/iuueong/FPDNet)   
-<br/>  
+<br/>    
 **Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning**   
 Chenxi Zhang, **Qing Zhang***, Jiayun Wu  
 International Conference on Acoustics, Speech, and Signal Processing (_**ICASSP**_), 2025    
 [\[Code\]](https://github.com/bbdjj/FBINet) [\[PDF\]](https://ieeexplore.ieee.org/document/10889016)    
-<br/>  
+<br/>   
+**Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection**  
+Rui Zhao, Yuetong Li, **Qing Zhang***, Xinyi Zhao    
+Knowledge-Based Systems (***KBS***), 2025, 314: 113158    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002059)    
+<br/>    
 **Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
 Yilin Zhao, **Qing Zhang***, Yuetong Li   
 International Conference on Acoustics, Speech, and Signal Processing (_**ICASSP**_), 2025   
