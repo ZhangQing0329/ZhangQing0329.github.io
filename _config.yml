@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Qing Zhang/Personal Homepage"
+title                    : "Qing Zhang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qing Zhang"
 description              : #&description "personal description"
