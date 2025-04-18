@@ -29,8 +29,23 @@ Knowledge-Based Systems (***KBS***), 2025, 314: 113158
          
 **Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li    
-International Conference on Acoustics, Speech, and Signal Processing (_**ICASSP**_), 2025   
-[\[PDF\]](https://ieeexplore.ieee.org/document/10887964)   
+International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025   
+[\[PDF\]](https://ieeexplore.ieee.org/document/10887964)  
+
+**FLRNet: A Bio-inspired Three-stage Network for Camouflaged Object Detection via Filtering, Localization and Refinement**   
+Yilin Zhao, **Qing Zhang\***, Yuetong Li   
+Neurocomputing (***NEURO***), 2025, 626: 129523      
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S092523122500195X)    
+
+**HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation**    
+Zhoujie Xu, Meng Dai\*, **Qing Zhang**, Xiaodi Jiang  
+Neurocomputing (***NEURO***), 2025, 619(28): 129154  
+[\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
+
+**A Dual-stream Learning Framework for Weakly Supervised Salient Object Detection with Multi-strategy Integration**    
+Yuyan Liu, **Qing Zhang\***, Yilin Zhao, Yanjiao Shi  
+The Visual Computer (***TVC***), 2025.    
+[\[Code\]](https://github.com/boom118/BSnet) [\[PDF\]](https://link.springer.com/article/10.1007/s00371-025-03798-9)   
         
 **FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
 Qiang Yu, **Qing Zhang\***, Yanjiao Shi, Qiangqiang Zhou      
@@ -50,7 +65,118 @@ International Joint Conference on Neural Networks (**_IJCNN_**), 2025
 Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou    
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
 [\[Code\]](https://github.com/splendid131313/DOERNet)     
-   
+
+**Salient Object Detection with Edge-guided Learning and Specific Aggregation**  
+Liqian Zhang, **Qing Zhang\***  
+IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2024, 34(1): 534-548   
+[\[PDF\]](https://ieeexplore.ieee.org/document/10155248)  [\[Code\]](https://github.com/ZhangQing0329/ELSANet)        
+      
+**Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection**  
+Jicheng Yang, **Qing Zhang\***, Yilin Zhao, Yuetong Li, Zeming Liu  
+IEEE International Conference on Multimedia and Expo (***ICME***), 2024   
+[\[PDF\]](https://ieeexplore.ieee.org/document/10687766)  [\[Code\]](https://github.com/Jcogito/BIRNet)      
+       
+**Detecting Camouflaged Object via Cross-level Context Supplement**   
+**Qing Zhang\***, Weiqi Yan, Rui Zhao, Yanjiao Shi   
+Applied Intelligence, 2024    
+[\[PDF\]](https://link.springer.com/article/10.1007/s10489-024-05694-6)  [\[Code\]](https://github.com/ZhangQing0329/CCSNet)     
+      
+**BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection**  
+Chenwang Sun, **Qing Zhang\***, Chenyu Zhuang, Mingqian Zhang  
+Image and Vision Computing, 2024, 147: 105048  
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)     
+      
+**Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection**     
+Yilin Zhao, **Qing Zhang\***, Yuetong Li  
+Asian Conference on Computer Vision (***ACCV***), 2024.   
+[\[Code\]](https://github.com/LinAyq/DCNet)  [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2024/papers/Zhao_Frequency_Learning_Network_with_Dual-Guidance_Calibration_for_Camouflaged_Object_Detection_ACCV_2024_paper.pdf)   
+      
+**Transformer-based Depth Optimization Network for RGB-D Salient Object Detection**   
+Lu Li, Yanjiao Shi\*, Jingyu Yang, Qiangqiang Zhou, **Qing Zhang**, Liu Cui  
+International Conference on Pattern Recognition (***ICPR***), 2024.  
+[\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_28)  
+      
+**AFINet: Camouflaged object detection via attention fusion and interaction network**  
+**Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang\*  
+Journal of Visual Communication and Image Representation (***JVCIR***), 2024  
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640)  [\[Code\]](https://github.com/ZhangQing0329/AFINet)    
+      
+**Depth cue enhancement and guidance network for RGB-D salient object detection**  
+Xiang Li, **Qing Zhang\***, Weiqi Yan, Meng Dai  
+Journal of Visual Communication and Image Representation (***JVCIR***), 2023, 95: 103880  
+[\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)  [\[Code\]](https://github.com/ZhangQing0329/DEGNet)       
+      
+**CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection**  
+**Qing Zhang\***, Weiqi Yan  
+IEEE International Conference on Multimedia and Expo (***ICME***), 2023: 2441-2446    
+[\[PDF\]](https://ieeexplore.ieee.org/document/10219858) [\[Code\]](https://github.com/ZhangQing0329/CFANet)
+      
+**TCRNet: a trifurcated cascaded refinement network for salient object detection**  
+**Qing Zhang\***, Rui Zhao, Liqian Zhang  
+IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 298-311  
+[\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)  [\[Code\]](https://github.com/ZhangQing0329/TCRNet)   
+           
+**Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation**  
+Jinghui Shi, **Qing Zhang\***, Yuhao Tang, Zhongqun Zhang  
+IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 30-42   
+[\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)    
+      
+**Progressive dual-attention residual network for salient object detection**  
+Liqian Zhang, **Qing Zhang\***, Rui Zhao  
+IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2022, 32(9): 5902-5915   
+[\[PDF\]](https://ieeexplore.ieee.org/document/9745960/) [\[Code\]](https://github.com/ZhangQing0329/PDRNet)    
+      
+**Residual attentive feature learning network for salient object detection**  
+**Qing Zhang\***, Yanjiao Shi, Xueqin Zhang, Liqian Zhang  
+Neurocomputing, 2022, 51:741-752  
+      
+**Cross-modal and multi-level feature refinement network for RGB-D salient object detection**  
+Yue Gao, Meng Dai\*, **Qing Zhang**  
+The Visual Computer (***TVC***), 2022  
+      
+**Global and local information aggregation network for edge-aware salient object detection**  
+**Qing Zhang\***, Liqian Zhang, Dong Wang, Yanjiao Shi, Jianjun Lin  
+Journal of Visual Communication and Image Representation (***JVCIR***), 2021, 81: 103350    
+       
+**Deep saliency detection via spatial-wise dilated convolutional attention**  
+Wenzhao Cui, **Qing Zhang\***, Baochuan Zuo  
+Neurocomputing, 2021, 445: 35-49  
+      
+**Edge-aware salient object detection network via context guidance**  
+Xiaowei Chen, **Qing Zhang\***, Liqian Zhang  
+Image and Vision Computing, 2021, 110: 104166   
+     
+**Salient object detection network with multi-scale feature  refinement and boundary feedback**   
+**Qing Zhang\***, Xiang Li   
+Image and Vision Computing, 2021, 116: 104326  
+      
+**Attention and boundary guided salient object detection**   
+**Qing Zhang\***, Yanjiao Shi, Xueqin Zhang  
+Pattern Recognition (***PR***), 2020, 107: 107-484  
+      
+**Attentive feature integration network for detecting salient objects in images**    
+**Qing Zhang\***, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang    
+Neurocomputing, 2020, 411: 268-281  
+      
+**Multi-level and multi-scale deep saliency network for salient object detection**  
+**Qing Zhang\***, Jiajun Lin, Jingjing Zhuge, Wenhao Yuan    
+Journal of Visual Communication and Image Representation (***JVCIR***), 2019, 59: 415-424  
+      
+**Kernel null-space-based abnormal event detection using hybrid motion information**  
+Yanjiao Shi, Yugen Yi, **Qing Zhang\***, Jiangyan Dai   
+Journal of Electronic Imaging (***JEI***), 2019, 28(2): 021011  
+      
+**Salient object detection via compactness and objectness cues**   
+**Qing Zhang\***, Jiajun Lin, Wenju Li, Yanjiao Shi, Guogang Cao  
+The Visual Computer (***TVC***), 2018, 34(4): 473-489  
+      
+**Salient object detection via color and texture cues**  
+**Qing Zhang\***, Jiajun Lin, Yanyun Tao, Wenju Li, Yanjiao Shi    
+Neurocomputing (***NEURO***), 2017, 3(21): 35-48  
+      
+**Two-stage absorbing markov chain for salient object detection**   
+**Qing Zhang\***, Desi Luo, Wenju Li, Yanjiao Shi, Jiajun Lin    
+International Conference on Image Processing (***ICPR***), 2017: 895-899    
 
 
 <div style="display:none">
