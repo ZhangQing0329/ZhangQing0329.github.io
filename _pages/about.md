@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-About
+
 ======
 I received my Ph.D. degree at East China University of Science and Technology (ECUST) in 2012, supervised by Prof. Jiajun Lin. I received my B.S. degree at ECUST in 2007. My research interests include saliency detection, camouflaged object detection, multi-modal image segmentation, and computer vision.
 
