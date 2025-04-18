@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-
-======
 I received my Ph.D. degree at East China University of Science and Technology (ECUST) in 2012, supervised by Prof. Jiajun Lin. I received my B.S. degree at ECUST in 2007. My research interests include saliency detection, camouflaged object detection, multi-modal image segmentation, and computer vision.
 
 Selected Papers
@@ -19,7 +17,6 @@ Yuetong Li, Yilin Zhao, **Qing Zhang***, Qiangqiang Zhou, Yanjiao Shi
 IEEE International Conference on Multimedia & Expo (**_ICME_**), 2025   
 [\[Code\]](https://github.com/iuueong/FPDNet)   
 <br/>
-
 **FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
 Qiang Yu, **Qing Zhang***, Yanjiao Shi, Qiangqiang Zhou      
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
@@ -30,6 +27,17 @@ International Joint Conference on Neural Networks (**_IJCNN_**), 2025
 Jiayun Wu, **Qing Zhang***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
 <br/>
+
+* Dual-domain Collaboration Learning Network for Camouflaged Object Detection    
+Jingming Wang, **Qing Zhang***, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou      
+International Joint Conference on Neural Networks (IJCNN), 2025   
+[\[Code\]](https://github.com/ZhangQing0329/DCLNet)   
+<br/>
+
+* Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection   
+Xiaoxu Yang, **Qing Zhang***, Qiangqiang Zhou    
+International Joint Conference on Neural Networks (IJCNN), 2025  
+<br/> 
 
 
 <div style="display:none">
@@ -43,11 +51,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
