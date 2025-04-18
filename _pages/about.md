@@ -22,9 +22,14 @@ IEEE International Conference on Multimedia & Expo (**_ICME_**), 2025
 
 **FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
 Qiang Yu, **Qing Zhang***, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**IJCNN**), 2025    
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
 [\[Code\]](https://github.com/ZhangQing0329/FGNet)   
 <br/> 
+
+**HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection**    
+Jiayun Wu, **Qing Zhang***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
+<br/>
 
 
 <div style="display:none">
