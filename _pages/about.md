@@ -12,6 +12,15 @@ About
 ======
 I received my Ph.D. degree at East China University of Science and Technology (ECUST) in 2012, supervised by Prof. Jiajun Lin. I received my B.S. degree at ECUST in 2007. My research interests include saliency detection, camouflaged object detection, multi-modal image segmentation, and computer vision.
 
+Selected Papers
+======
+**Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**    
+Yuetong Li, Yilin Zhao, **Qing Zhang***, Qiangqiang Zhou, Yanjiao Shi      
+IEEE International Conference on Multimedia & Expo (**ICME**), 2025   
+[\[Code\]](https://github.com/iuueong/FPDNet)   
+<br/>
+
+
 <div style="display:none">
 A data-driven personal website
 ======
