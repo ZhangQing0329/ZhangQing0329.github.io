@@ -13,44 +13,44 @@ I received my Ph.D. degree at East China University of Science and Technology (E
 Selected Papers
 ======
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**    
-Yuetong Li, Yilin Zhao, **Qing Zhang***, Qiangqiang Zhou, Yanjiao Shi      
+Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
 [\[Code\]](https://github.com/iuueong/FPDNet)   
    
-**Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning**   
-Chenxi Zhang, **Qing Zhang***, Jiayun Wu  
+**Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning**    
+Chenxi Zhang, **Qing Zhang\***, Jiayun Wu    
 International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025    
 [\[Code\]](https://github.com/bbdjj/FBINet) [\[PDF\]](https://ieeexplore.ieee.org/document/10889016)    
       
 **Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection**  
-Rui Zhao, Yuetong Li, **Qing Zhang***, Xinyi Zhao    
+Rui Zhao, Yuetong Li, **Qing Zhang\***, Xinyi Zhao    
 Knowledge-Based Systems (***KBS***), 2025, 314: 113158    
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002059)    
-<br/>    
+         
 **Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
-Yilin Zhao, **Qing Zhang***, Yuetong Li   
+Yilin Zhao, **Qing Zhang\***, Yuetong Li    
 International Conference on Acoustics, Speech, and Signal Processing (_**ICASSP**_), 2025   
 [\[PDF\]](https://ieeexplore.ieee.org/document/10887964)   
-<br/>    
+        
 **FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
-Qiang Yu, **Qing Zhang***, Yanjiao Shi, Qiangqiang Zhou      
+Qiang Yu, **Qing Zhang\***, Yanjiao Shi, Qiangqiang Zhou      
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
 [\[Code\]](https://github.com/ZhangQing0329/FGNet)   
-<br/> 
+     
 **HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection**    
-Jiayun Wu, **Qing Zhang***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
+Jiayun Wu, **Qing Zhang\***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
-<br/>
+      
 **Dual-domain Collaboration Learning Network for Camouflaged Object Detection**    
-Jingming Wang, **Qing Zhang***, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
+Jingming Wang, **Qing Zhang\***, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou      
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
 [\[Code\]](https://github.com/ZhangQing0329/DCLNet)   
-<br/>
+      
 **Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection**     
-Xiaoxu Yang, **Qing Zhang***, Qiangqiang Zhou    
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025  
-[\[Code\]](https://github.com/splendid131313/DOERNet)   
-<br/> 
+Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou    
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
+[\[Code\]](https://github.com/splendid131313/DOERNet)     
+   
 
 
 <div style="display:none">
