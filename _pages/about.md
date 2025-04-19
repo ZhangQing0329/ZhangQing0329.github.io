@@ -9,7 +9,7 @@ redirect_from:
 
 <p style="text-align:justify;text-justify:inter-ideograph">
 I received my Ph.D. degree at East China University of Science and Technology (ECUST) in 2012, supervised by Prof. Jiajun Lin. I received my B.S. degree at ECUST in 2007. My research interests include saliency detection, camouflaged object detection, multi-modal image segmentation, and computer vision.
-</p>
+
 
 Selected Papers
 ======
@@ -178,7 +178,7 @@ Neurocomputing (***NEURO***), 2017, 3(21): 35-48
 **Two-stage absorbing markov chain for salient object detection**   
 **Qing Zhang\***, Desi Luo, Wenju Li, Yanjiao Shi, Jiajun Lin    
 International Conference on Image Processing (***ICPR***), 2017: 895-899    
-
+</p>
 
 <div style="display:none">
 A data-driven personal website
