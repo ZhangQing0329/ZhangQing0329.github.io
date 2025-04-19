@@ -13,7 +13,7 @@ I received my Ph.D. degree at East China University of Science and Technology (E
 
 Selected Papers
 ======
-<span style="color:rgb(201, 85, 184); font-size: 16px;font-weight: bold;">2025</span>
+<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2025</span>
 <style>
   .colored-line {
     border: 0;
@@ -22,8 +22,9 @@ Selected Papers
   }
 </style>
 
-<div class="colored-line"></div>  
-     
+<div class="colored-line"></div>    
+<br>    
+
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
