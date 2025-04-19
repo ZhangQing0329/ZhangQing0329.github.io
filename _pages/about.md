@@ -89,7 +89,7 @@ Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
 [\[Code\]](https://github.com/splendid131313/DOERNet)    
 
-<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2024</span>
+<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
 <style>
   .colored-line {
     border: 0;
@@ -153,7 +153,7 @@ Multimedia Systems, 2024, 30(4): 190
 Qianqian Guo, Yanjiao Shi\*, Jin Zhang, Jinyu Yang, **Qing Zhang**   
 Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047       
 
-<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2023</span>
+<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2023</span>
 <style>
   .colored-line {
     border: 0;
@@ -195,7 +195,7 @@ IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshop
 Lanjun Liang\*, Huailin Zhao, Fangbo Zhou, **Qing Zhang**, Zhili Song, Qingxuan Shi    
 Applied Intelligence, 2023, 53(5): 5146-5159     
 
-<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2022</span>
+<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2022</span>
 <style>
   .colored-line {
     border: 0;
@@ -233,7 +233,7 @@ Image and Vision Computing (***IMAVIS***), 2022, 120: 104423
 Jin Zhang, Yanjiao Shi\*, **Qing Zhang**, Liu Cui, Ying Chen, Yugen Yi   
 Image and Vision Computing (***IMAVIS***), 2022, 117: 104337          
 
-<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2021</span>
+<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2021</span>
 <style>
   .colored-line {
     border: 0;
@@ -262,7 +262,7 @@ Image and Vision Computing (***IMAVIS***), 2021, 110: 104166
 **Qing Zhang\***, Xiang Li   
 Image and Vision Computing (***IMAVIS***), 2021, 116: 104326  
 
-<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2020</span>
+<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2020</span>
 <style>
   .colored-line {
     border: 0;
@@ -283,7 +283,7 @@ Pattern Recognition (***PR***), 2020, 107: 107-484
 **Qing Zhang\***, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang    
 Neurocomputing, 2020, 411: 268-281  
 
-<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2019 and Before</span>
+<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2019 and Before</span>
 <style>
   .colored-line {
     border: 0;
