@@ -24,7 +24,8 @@ Selected Papers
 
 <div class="colored-line"></div>   
 
-<div style="height: 20px;"></div>     
+<div style="height: 20px;"></div>    
+ 
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
@@ -77,7 +78,20 @@ International Joint Conference on Neural Networks (**_IJCNN_**), 2025
 **Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection**     
 Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou    
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
-[\[Code\]](https://github.com/splendid131313/DOERNet)     
+[\[Code\]](https://github.com/splendid131313/DOERNet)    
+
+<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2024</span>
+<style>
+  .colored-line {
+    border: 0;
+    height: 2px;
+    background-color: rgb(201, 85, 184);
+  }
+</style>
+
+<div class="colored-line"></div>   
+
+<div style="height: 20px;"></div>  
 
 **Salient Object Detection with Edge-guided Learning and Specific Aggregation**  
 Liqian Zhang, **Qing Zhang\***  
@@ -113,6 +127,19 @@ International Conference on Pattern Recognition (***ICPR***), 2024.
 **Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang\*  
 Journal of Visual Communication and Image Representation (***JVCIR***), 2024  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640)  [\[Code\]](https://github.com/ZhangQing0329/AFINet)    
+
+<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2023</span>
+<style>
+  .colored-line {
+    border: 0;
+    height: 2px;
+    background-color: rgb(201, 85, 184);
+  }
+</style>
+
+<div class="colored-line"></div>   
+
+<div style="height: 20px;"></div>  
       
 **Depth cue enhancement and guidance network for RGB-D salient object detection**  
 Xiang Li, **Qing Zhang\***, Weiqi Yan, Meng Dai  
@@ -133,7 +160,20 @@ IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 20
 Jinghui Shi, **Qing Zhang\***, Yuhao Tang, Zhongqun Zhang  
 IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 30-42   
 [\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)    
-      
+
+<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2022</span>
+<style>
+  .colored-line {
+    border: 0;
+    height: 2px;
+    background-color: rgb(201, 85, 184);
+  }
+</style>
+
+<div class="colored-line"></div>   
+
+<div style="height: 20px;"></div> 
+
 **Progressive dual-attention residual network for salient object detection**  
 Liqian Zhang, **Qing Zhang\***, Rui Zhao  
 IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2022, 32(9): 5902-5915   
@@ -146,7 +186,20 @@ Neurocomputing, 2022, 51:741-752
 **Cross-modal and multi-level feature refinement network for RGB-D salient object detection**  
 Yue Gao, Meng Dai\*, **Qing Zhang**  
 The Visual Computer (***TVC***), 2022  
-      
+
+<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2021</span>
+<style>
+  .colored-line {
+    border: 0;
+    height: 2px;
+    background-color: rgb(201, 85, 184);
+  }
+</style>
+
+<div class="colored-line"></div>   
+
+<div style="height: 20px;"></div>  
+
 **Global and local information aggregation network for edge-aware salient object detection**  
 **Qing Zhang\***, Liqian Zhang, Dong Wang, Yanjiao Shi, Jianjun Lin  
 Journal of Visual Communication and Image Representation (***JVCIR***), 2021, 81: 103350    
