@@ -136,6 +136,14 @@ International Conference on Pattern Recognition (***ICPR***), 2024.
 **Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang\*  
 Journal of Visual Communication and Image Representation (***JVCIR***), 2024  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640)  [\[Code\]](https://github.com/ZhangQing0329/AFINet)    
+      
+**Boosting transferability of adversarial samples via saliency distribution and frequency domain enhancement**
+Yixuan Wang, Wei Hong, Xueqin Zhang\*, **Qing Zhang**, Chunhua Gu    
+Knowledge-Based Systems (***KBS***), 2024, 300: 112152   
+
+**Light-sensitive and adaptive fusion network for RGB-T crowd counting**   
+Liangjun Huang\*, Wencan Kang, Guangkai Chen, **Qing Zhang**, Jianwei Zhang    
+The Visual Computer (***TVC***), 2024, 40(10): 7279-7292     
 
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2023</span>
 <style>
@@ -168,7 +176,12 @@ IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 20
 **Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation**  
 Jinghui Shi, **Qing Zhang\***, Yuhao Tang, Zhongqun Zhang  
 IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 30-42   
-[\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)    
+[\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)   
+
+**Motion Analysis and Reconstruction of Human Joint Regions for Sparse RGBD Images**   
+Tianzhen Dong, Yuntao Bai, **Qing Zhang**, Yi Zhang   
+IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (***VRW***), 2023: 773-774      
+[\[PDF\]](https://ieeexplore.ieee.org/document/10108739/)      
 
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2022</span>
 <style>
@@ -190,11 +203,19 @@ IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 20
       
 **Residual attentive feature learning network for salient object detection**  
 **Qing Zhang\***, Yanjiao Shi, Xueqin Zhang, Liqian Zhang  
-Neurocomputing, 2022, 51:741-752  
+Neurocomputing (***NEURO***), 2022, 51:741-752  
       
 **Cross-modal and multi-level feature refinement network for RGB-D salient object detection**  
 Yue Gao, Meng Dai\*, **Qing Zhang**  
-The Visual Computer (***TVC***), 2022  
+The Visual Computer (***TVC***), 2022   
+
+**COMAL: compositional multi-scale feature enhanced learning for crowd counting**     
+Fangbo Zhou, Huailin Zhao\*, Yani Zhang, **Qing Zhang**, Lanjun Liang, Yaoyao Li, Zuodong Duan     
+Multimedia Tools and Applications, 2022, 81(15): 20541-20560     
+
+**R2Net: Residual refinement network for salient object detection**     
+Jin Zhang, Qiuwei Liang, Qianqian Guo, Jinyu Yang, **Qing Zhang**, Yanjiao Shi\*    
+Image and Vision Computing (***IMAVIS***), 2022, 120: 104423          
 
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2021</span>
 <style>
@@ -219,11 +240,11 @@ Neurocomputing, 2021, 445: 35-49
       
 **Edge-aware salient object detection network via context guidance**  
 Xiaowei Chen, **Qing Zhang\***, Liqian Zhang  
-Image and Vision Computing, 2021, 110: 104166   
+Image and Vision Computing (***IMAVIS***), 2021, 110: 104166   
      
 **Salient object detection network with multi-scale feature  refinement and boundary feedback**   
 **Qing Zhang\***, Xiang Li   
-Image and Vision Computing, 2021, 116: 104326  
+Image and Vision Computing (***IMAVIS***), 2021, 116: 104326  
 
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2020</span>
 <style>
@@ -266,6 +287,10 @@ Journal of Visual Communication and Image Representation (***JVCIR***), 2019, 59
 **Kernel null-space-based abnormal event detection using hybrid motion information**  
 Yanjiao Shi, Yugen Yi, **Qing Zhang\***, Jiangyan Dai   
 Journal of Electronic Imaging (***JEI***), 2019, 28(2): 021011  
+
+**Hierarchical Salient Object Detection Network with Dense Connections**   
+**Qing Zhang\***, Jianchen Shi, Baochuan Zuo, Meng Dai, Tianzhen Dong, Xiao Qi   
+International Conference on Image and Graphics (***ICIG***), 2019: 454-466     
       
 **Salient object detection via compactness and objectness cues**   
 **Qing Zhang\***, Jiajun Lin, Wenju Li, Yanjiao Shi, Guogang Cao  
@@ -277,8 +302,19 @@ Neurocomputing (***NEURO***), 2017, 3(21): 35-48
       
 **Two-stage absorbing markov chain for salient object detection**   
 **Qing Zhang\***, Desi Luo, Wenju Li, Yanjiao Shi, Jiajun Lin    
-International Conference on Image Processing (***ICPR***), 2017: 895-899    
+International Conference on Image Processing (***ICIP***), 2017: 895-899   
 
+**A systematic EHW approach to the evolutionary design of sequential circuits**   
+Yanyun Tao\*, **Qing Zhang**, Lijun Zhang, Yuzhen Zhang    
+Soft Computing, 2013, 20(12): 5025-5038        
+
+**Salient Object Detection via Structure Extraction and Region Contrast**    
+**Qing Zhang\***, Jiajun Lin, Xiaodan Li    
+Journal of Information Science and Engineering (***JISE***),2016, 32(6): 1435-1454    
+
+**Saliency-based abnormal event detection in crowded scenes**   
+Yanjiao Shi\*, Yunxiang Liu, **Qing Zhang**, Yugen Yi, Wenju Li      
+Journal of Electronic Imaging (***JEI***), 2016, 25(6): 61608     
 
 <div style="display:none">
 A data-driven personal website
