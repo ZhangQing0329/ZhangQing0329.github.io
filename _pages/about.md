@@ -22,7 +22,7 @@ Selected Papers
 </span>
 <div style="height: 10px;"></div>  
 
-<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2025</span>
+<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2025</span>
 <style>
   .colored-line {
     border: 0;
