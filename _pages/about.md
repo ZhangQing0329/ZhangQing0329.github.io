@@ -10,16 +10,17 @@ redirect_from:
 <span style="color:rgb(246, 107, 225); font-size: 28px;font-weight: bold;">
 About
 </span>
-<div style="height: 20px;"></div>  
+<div style="height: 10px;"></div>  
 
 <p style="text-align:justify;text-justify:inter-ideograph">
 I received my Ph.D. degree at East China University of Science and Technology (ECUST) in 2012, supervised by Prof. Jiajun Lin. I received my B.S. degree at ECUST in 2007. My research interests include saliency detection, camouflaged object detection, multi-modal image segmentation, and computer vision.
 </p>
+<div style="height: 15px;"></div>  
 
 <span style="color:rgb(246, 107, 225); font-size: 28px;font-weight: bold;">
 Selected Papers
 </span>
-<div style="height: 20px;"></div>  
+<div style="height: 10px;"></div>  
 
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2025</span>
 <style>
