@@ -23,8 +23,7 @@ Selected Papers
 </style>
 
 <div class="colored-line"></div>    
-<br>    
-
+      
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
