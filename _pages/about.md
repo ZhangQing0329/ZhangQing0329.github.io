@@ -13,12 +13,12 @@ I received my Ph.D. degree at East China University of Science and Technology (E
 
 Selected Papers
 ======
-<font size=4 color=#871F78>**2025**</font>  
+<span style="color:rgb(201, 85, 184); font-size: 16px;font-weight: bold;">2025</span>
 <style>
   .colored-line {
     border: 0;
     height: 2px;
-    background-color: #871F78;
+    background-color: rgb(201, 85, 184);
   }
 </style>
 
