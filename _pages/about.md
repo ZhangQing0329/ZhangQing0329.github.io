@@ -77,7 +77,8 @@ International Joint Conference on Neural Networks (**_IJCNN_**), 2025
      
 **HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection**    
 Jiayun Wu, **Qing Zhang\***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
+[\[Code\]](https://github.com/ZhangQing0329/HEFNet)    
       
 **Dual-domain Collaboration Learning Network for Camouflaged Object Detection**    
 Jingming Wang, **Qing Zhang\***, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou      
@@ -119,7 +120,7 @@ Applied Intelligence, 2024
       
 **BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection**  
 Chenwang Sun, **Qing Zhang\***, Chenyu Zhuang, Mingqian Zhang  
-Image and Vision Computing, 2024, 147: 105048  
+Image and Vision Computing (***IMAVIS***), 2024, 147: 105048  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)     
       
 **Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection**     
@@ -137,21 +138,25 @@ International Conference on Pattern Recognition (***ICPR***), 2024.
 Journal of Visual Communication and Image Representation (***JVCIR***), 2024  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640)  [\[Code\]](https://github.com/ZhangQing0329/AFINet)    
       
-**Boosting transferability of adversarial samples via saliency distribution and frequency domain enhancement**
+**Boosting transferability of adversarial samples via saliency distribution and frequency domain enhancement**   
 Yixuan Wang, Wei Hong, Xueqin Zhang\*, **Qing Zhang**, Chunhua Gu    
-Knowledge-Based Systems (***KBS***), 2024, 300: 112152   
+Knowledge-Based Systems (***KBS***), 2024, 300: 112152    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S095070512400786X)   
 
 **Light-sensitive and adaptive fusion network for RGB-T crowd counting**   
 Liangjun Huang\*, Wencan Kang, Guangkai Chen, **Qing Zhang**, Jianwei Zhang    
 The Visual Computer (***TVC***), 2024, 40(10): 7279-7292     
+[\[PDF\]](https://link.springer.com/article/10.1007/s00371-024-03388-1)   
 
 **Multi-branch feature fusion and refinement network for salient object detection**   
 Jinyu Yang, Yanjiao Shi\*, Jin Zhang, Qianqian Guo, **Qing Zhang**, Liu Cui    
 Multimedia Systems, 2024, 30(4): 190    
+[\[PDF\]](https://link.springer.com/article/10.1007/s00530-024-01356-2)   
   
 **D2Net: discriminative feature extraction and details preservation network for salient object detection**     
 Qianqian Guo, Yanjiao Shi\*, Jin Zhang, Jinyu Yang, **Qing Zhang**   
 Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047       
+[\[PDF\]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-4/043047/D2Net--discriminative-feature-extraction-and-details-preservation-network-for/10.1117/1.JEI.33.4.043047.short)   
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2023</span>
 <style>
@@ -215,23 +220,28 @@ IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 20
       
 **Residual attentive feature learning network for salient object detection**  
 **Qing Zhang\***, Yanjiao Shi, Xueqin Zhang, Liqian Zhang  
-Neurocomputing (***NEURO***), 2022, 51:741-752  
+Neurocomputing (***NEURO***), 2022, 51:741-752    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007846)    
       
 **Cross-modal and multi-level feature refinement network for RGB-D salient object detection**  
 Yue Gao, Meng Dai\*, **Qing Zhang**  
-The Visual Computer (***TVC***), 2022   
+The Visual Computer (***TVC***), 2022, 39: 3979-3994      
+[\[PDF\]](https://link.springer.com/article/10.1007/s00371-022-02543-w)    
 
 **COMAL: compositional multi-scale feature enhanced learning for crowd counting**     
 Fangbo Zhou, Huailin Zhao\*, Yani Zhang, **Qing Zhang**, Lanjun Liang, Yaoyao Li, Zuodong Duan     
 Multimedia Tools and Applications, 2022, 81(15): 20541-20560     
+[\[PDF\]](https://link.springer.com/article/10.1007/s11042-022-12249-9)    
 
 **R2Net: Residual refinement network for salient object detection**     
 Jin Zhang, Qiuwei Liang, Qianqian Guo, Jinyu Yang, **Qing Zhang**, Yanjiao Shi\*    
 Image and Vision Computing (***IMAVIS***), 2022, 120: 104423    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S026288562200052X)    
     
 **Attention guided contextual feature fusion network for salient object detection**    
 Jin Zhang, Yanjiao Shi\*, **Qing Zhang**, Liu Cui, Ying Chen, Yugen Yi   
-Image and Vision Computing (***IMAVIS***), 2022, 117: 104337          
+Image and Vision Computing (***IMAVIS***), 2022, 117: 104337    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002420)          
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2021</span>
 <style>
@@ -249,18 +259,22 @@ Image and Vision Computing (***IMAVIS***), 2022, 117: 104337
 **Global and local information aggregation network for edge-aware salient object detection**  
 **Qing Zhang\***, Liqian Zhang, Dong Wang, Yanjiao Shi, Jianjun Lin  
 Journal of Visual Communication and Image Representation (***JVCIR***), 2021, 81: 103350    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002303)          
        
 **Deep saliency detection via spatial-wise dilated convolutional attention**  
 Wenzhao Cui, **Qing Zhang\***, Baochuan Zuo  
-Neurocomputing, 2021, 445: 35-49  
+Neurocomputing, 2021, 445: 35-49     
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221003179)        
       
 **Edge-aware salient object detection network via context guidance**  
 Xiaowei Chen, **Qing Zhang\***, Liqian Zhang  
-Image and Vision Computing (***IMAVIS***), 2021, 110: 104166   
+Image and Vision Computing (***IMAVIS***), 2021, 110: 104166    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621000718)     
      
 **Salient object detection network with multi-scale feature  refinement and boundary feedback**   
 **Qing Zhang\***, Xiang Li   
-Image and Vision Computing (***IMAVIS***), 2021, 116: 104326  
+Image and Vision Computing (***IMAVIS***), 2021, 116: 104326      
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002316)     
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2020</span>
 <style>
@@ -277,11 +291,13 @@ Image and Vision Computing (***IMAVIS***), 2021, 116: 104326
   
 **Attention and boundary guided salient object detection**   
 **Qing Zhang\***, Yanjiao Shi, Xueqin Zhang  
-Pattern Recognition (***PR***), 2020, 107: 107-484  
+Pattern Recognition (***PR***), 2020, 107: 107-484    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302879)     
       
 **Attentive feature integration network for detecting salient objects in images**    
 **Qing Zhang\***, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang    
-Neurocomputing, 2020, 411: 268-281  
+Neurocomputing, 2020, 411: 268-281    
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309346)     
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2019 and Before</span>
 <style>
