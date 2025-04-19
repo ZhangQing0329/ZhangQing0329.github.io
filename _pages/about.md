@@ -7,12 +7,20 @@ redirect_from:
   - /about.html
 ---
 
+<span style="color:rgb(246, 107, 225); font-size: 28px;font-weight: bold;">
+About
+</span>
+<div style="height: 20px;"></div>  
+
 <p style="text-align:justify;text-justify:inter-ideograph">
 I received my Ph.D. degree at East China University of Science and Technology (ECUST) in 2012, supervised by Prof. Jiajun Lin. I received my B.S. degree at ECUST in 2007. My research interests include saliency detection, camouflaged object detection, multi-modal image segmentation, and computer vision.
 </p>
 
+<span style="color:rgb(246, 107, 225); font-size: 28px;font-weight: bold;">
 Selected Papers
-======
+</span>
+<div style="height: 20px;"></div>  
+
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2025</span>
 <style>
   .colored-line {
@@ -25,7 +33,7 @@ Selected Papers
 <div class="colored-line"></div>   
 
 <div style="height: 20px;"></div>    
- 
+
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
@@ -215,7 +223,20 @@ Image and Vision Computing, 2021, 110: 104166
 **Salient object detection network with multi-scale feature  refinement and boundary feedback**   
 **Qing Zhang\***, Xiang Li   
 Image and Vision Computing, 2021, 116: 104326  
-      
+
+<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2020</span>
+<style>
+  .colored-line {
+    border: 0;
+    height: 2px;
+    background-color: rgb(201, 85, 184);
+  }
+</style>
+
+<div class="colored-line"></div>   
+
+<div style="height: 20px;"></div>    
+  
 **Attention and boundary guided salient object detection**   
 **Qing Zhang\***, Yanjiao Shi, Xueqin Zhang  
 Pattern Recognition (***PR***), 2020, 107: 107-484  
@@ -223,7 +244,20 @@ Pattern Recognition (***PR***), 2020, 107: 107-484
 **Attentive feature integration network for detecting salient objects in images**    
 **Qing Zhang\***, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang    
 Neurocomputing, 2020, 411: 268-281  
-      
+
+<span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2019 and Before</span>
+<style>
+  .colored-line {
+    border: 0;
+    height: 2px;
+    background-color: rgb(201, 85, 184);
+  }
+</style>
+
+<div class="colored-line"></div>   
+
+<div style="height: 20px;"></div>    
+   
 **Multi-level and multi-scale deep saliency network for salient object detection**  
 **Qing Zhang\***, Jiajun Lin, Jingjing Zhuge, Wenhao Yuan    
 Journal of Visual Communication and Image Representation (***JVCIR***), 2019, 59: 415-424  
