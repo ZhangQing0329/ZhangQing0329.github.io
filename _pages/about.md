@@ -13,9 +13,7 @@ I received my Ph.D. degree at East China University of Science and Technology (E
 
 Selected Papers
 ======
-<p style="text-align:justify;text-justify:inter-ideograph">
-**Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance** 
-</p>   
+**Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
 [\[Code\]](https://github.com/iuueong/FPDNet)   
