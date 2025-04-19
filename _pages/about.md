@@ -145,6 +145,14 @@ Knowledge-Based Systems (***KBS***), 2024, 300: 112152
 Liangjun Huang\*, Wencan Kang, Guangkai Chen, **Qing Zhang**, Jianwei Zhang    
 The Visual Computer (***TVC***), 2024, 40(10): 7279-7292     
 
+**Multi-branch feature fusion and refinement network for salient object detection**   
+Jinyu Yang, Yanjiao Shi\*, Jin Zhang, Qianqian Guo, **Qing Zhang**, Liu Cui    
+Multimedia Systems, 2024, 30(4): 190    
+  
+**D2Net: discriminative feature extraction and details preservation network for salient object detection**     
+Qianqian Guo, Yanjiao Shi\*, Jin Zhang, Jinyu Yang, **Qing Zhang**   
+Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047       
+
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2023</span>
 <style>
   .colored-line {
@@ -181,7 +189,11 @@ IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 20
 **Motion Analysis and Reconstruction of Human Joint Regions for Sparse RGBD Images**   
 Tianzhen Dong, Yuntao Bai, **Qing Zhang**, Yi Zhang   
 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (***VRW***), 2023: 773-774      
-[\[PDF\]](https://ieeexplore.ieee.org/document/10108739/)      
+[\[PDF\]](https://ieeexplore.ieee.org/document/10108739/)    
+     
+**SC2Net: Scale-aware Crowd Counting Network with Pyramid Dilated Convolution**
+Lanjun Liang\*, Huailin Zhao, Fangbo Zhou, **Qing Zhang**, Zhili Song, Qingxuan Shi    
+Applied Intelligence, 2023, 53(5): 5146-5159     
 
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2022</span>
 <style>
@@ -215,7 +227,11 @@ Multimedia Tools and Applications, 2022, 81(15): 20541-20560
 
 **R2Net: Residual refinement network for salient object detection**     
 Jin Zhang, Qiuwei Liang, Qianqian Guo, Jinyu Yang, **Qing Zhang**, Yanjiao Shi\*    
-Image and Vision Computing (***IMAVIS***), 2022, 120: 104423          
+Image and Vision Computing (***IMAVIS***), 2022, 120: 104423    
+    
+**Attention guided contextual feature fusion network for salient object detection**    
+Jin Zhang, Yanjiao Shi\*, **Qing Zhang**, Liu Cui, Ying Chen, Yugen Yi   
+Image and Vision Computing (***IMAVIS***), 2022, 117: 104337          
 
 <span style="color:rgb(201, 85, 184); font-size: 20px;font-weight: bold;">2021</span>
 <style>
