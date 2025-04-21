@@ -346,7 +346,20 @@ Journal of Information Science and Engineering (***JISE***),2016, 32(6): 1435-14
 
 **Saliency-based abnormal event detection in crowded scenes**   
 Yanjiao Shi\*, Yunxiang Liu, **Qing Zhang**, Yugen Yi, Wenju Li      
-Journal of Electronic Imaging (***JEI***), 2016, 25(6): 61608     
+Journal of Electronic Imaging (***JEI***), 2016, 25(6): 61608   
+
+**Structure extraction and region contrast based salient object detection**    
+**Qing Zhang\***, Jiajun Lin, Zhigang Xie    
+International Conference on Digital Image Processing (***ICDIP***), 2016.   
+
+**Exemplar-based image inpainting using color distribution analysis**   
+**Qing Zhang\***, Jiajun Lin    
+Journal of Information Science and Engineering (***JISE***), 2012, 28(4): 641-654.    
+
+**Image inpainting via variation of variances and linear weighted filling-in**   
+**Qing Zhang\***, Jiajun Lin    
+Optical Engineering, 2011, 50(7): 077001.
+
 
 <div style="display:none">
 A data-driven personal website
