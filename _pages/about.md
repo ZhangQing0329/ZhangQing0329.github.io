@@ -90,6 +90,14 @@ Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
 [\[Code\]](https://github.com/splendid131313/DOERNet)    
 
+**Boundary-and- Object Collaborative Learning Network for Camouflaged Object Detection**    
+Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan    
+Image and Vision Computing (***IMAVIS***), 2025  
+
+**Intra- and Inter-Group Mutual Learning Network  for Lightweight Camouflaged Object Detection**    
+Chenyu Zhuang, **Qing Zhang\***     
+International Conference on Intelligent Computing (***ICIC***), 2025   
+
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
 <style>
   .colored-line {
