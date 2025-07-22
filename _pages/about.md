@@ -33,7 +33,11 @@ Selected Papers
 
 <div class="colored-line"></div>   
 
-<div style="height: 20px;"></div>    
+<div style="height: 20px;"></div>
+
+**CGCOD: Class-Guided Camouflaged Object Detection**      
+Chenxi Zhang, **Qing Zhang\***, Jiayun Wu, Youwei Pang\*    
+ACM Multimedia (***ACM MM***), 2025               
 
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
@@ -90,13 +94,15 @@ Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
 [\[Code\]](https://github.com/splendid131313/DOERNet)    
 
-**Boundary-and- Object Collaborative Learning Network for Camouflaged Object Detection**    
+**Boundary-and-Object Collaborative Learning Network for Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan    
-Image and Vision Computing (***IMAVIS***), 2025  
+Image and Vision Computing (***IMAVIS***), 2025, 161: 105596      
+[\[Code\]](https://github.com/ZhangQing0329/BCLNet)  [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842)        
 
 **Intra- and Inter-Group Mutual Learning Network  for Lightweight Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***     
-International Conference on Intelligent Computing (***ICIC***), 2025   
+International Conference on Intelligent Computing (***ICIC***), 2025: 164-176   
+[\[PDF\]](https://link.springer.com/chapter/10.1007/978-981-96-9961-2_14)     
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
 <style>
