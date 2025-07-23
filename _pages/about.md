@@ -37,8 +37,9 @@ Selected Papers
 
 **CGCOD: Class-Guided Camouflaged Object Detection**      
 Chenxi Zhang, **Qing Zhang\***, Jiayun Wu, Youwei Pang\*    
-ACM Multimedia (***ACM MM***), 2025               
-
+ACM Multimedia (***ACM MM***), 2025     
+[\[Code\]](https://github.com/bbdjj/CGCOD)     
+   
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
 IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
@@ -99,10 +100,18 @@ Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan
 Image and Vision Computing (***IMAVIS***), 2025, 161: 105596      
 [\[Code\]](https://github.com/ZhangQing0329/BCLNet)  [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842)        
 
-**Intra- and Inter-Group Mutual Learning Network  for Lightweight Camouflaged Object Detection**    
+**Intra- and Inter-Group Mutual Learning Network for Lightweight Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***     
 International Conference on Intelligent Computing (***ICIC***), 2025: 164-176   
-[\[PDF\]](https://link.springer.com/chapter/10.1007/978-981-96-9961-2_14)     
+[\[PDF\]](https://link.springer.com/chapter/10.1007/978-981-96-9961-2_14)  
+
+**Rethinking Lightweight and Efficient Human Pose Esrimation with Star Operation Reconstruction**  
+Xu Zhoujie, Meng Dai\*, **Qing Zhang**, Huawen Liu   
+International Conference on Knowledge Science, Engineering and Management, 2025     
+
+**A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network**   
+International Conference on Artificial Neural Networks (***ICANN***), 2025   
+Zhenjie Ji, Yanjiao Shi\*, ** Qing Zhang**, Qiangqiang Zhou    
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
 <style>
