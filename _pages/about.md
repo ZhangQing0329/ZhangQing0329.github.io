@@ -107,11 +107,12 @@ International Conference on Intelligent Computing (***ICIC***), 2025: 164-176
 
 **Rethinking Lightweight and Efficient Human Pose Esrimation with Star Operation Reconstruction**  
 Xu Zhoujie, Meng Dai\*, **Qing Zhang**, Huawen Liu   
-International Conference on Knowledge Science, Engineering and Management, 2025     
+International Conference on Knowledge Science, Engineering and Management (***KSEM***), 2025     
 
-**A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network**   
+**A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network**  
+Zhenjie Ji, Yanjiao Shi\*, ** Qing Zhang**, Qiangqiang Zhou     
 International Conference on Artificial Neural Networks (***ICANN***), 2025   
-Zhenjie Ji, Yanjiao Shi\*, ** Qing Zhang**, Qiangqiang Zhou    
+
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
 <style>
