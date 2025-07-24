@@ -110,7 +110,7 @@ Xu Zhoujie, Meng Dai\*, **Qing Zhang**, Huawen Liu
 International Conference on Knowledge Science, Engineering and Management (***KSEM***), 2025     
 
 **A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network**  
-Zhenjie Ji, Yanjiao Shi\*, ** Qing Zhang**, Qiangqiang Zhou     
+Zhenjie Ji, Yanjiao Shi\*, **Qing Zhang**, Qiangqiang Zhou     
 International Conference on Artificial Neural Networks (***ICANN***), 2025   
 
 
