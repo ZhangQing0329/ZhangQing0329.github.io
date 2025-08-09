@@ -58,7 +58,7 @@ Knowledge-Based Systems (***KBS***), 2025, 314: 113158
 **Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li    
 International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025   
-[\[PDF\]](https://ieeexplore.ieee.org/document/10887964)  
+[\[Code\]](https://github.com/LinAyq/FHCNet) [\[PDF\]](https://ieeexplore.ieee.org/document/10887964)  
 
 **FLRNet: A Bio-inspired Three-stage Network for Camouflaged Object Detection via Filtering, Localization and Refinement**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li   
