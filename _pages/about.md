@@ -98,7 +98,17 @@ International Joint Conference on Neural Networks (**_IJCNN_**), 2025
 **Boundary-and-Object Collaborative Learning Network for Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan    
 Image and Vision Computing (***IMAVIS***), 2025, 161: 105596      
-[\[Code\]](https://github.com/ZhangQing0329/BCLNet)  [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842)        
+[\[Code\]](https://github.com/ZhangQing0329/BCLNet)  [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842)     
+
+**FINet: Detecting Camouflaged Objects Using Frequency-aware Information**     
+Chengfeng Zhu, Zeming Liu, **Qing Zhang\***   
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025    
+
+**SAM2-LPNet: Saliency Guided and Laplacian Aware Fine-tuning of SAM2 for Weakly Supervised Salient Object Detection**       
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025   
+
+**Collaborative Perception and Dual-stage Decoder Network for Camouflaged Object Detection**       
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025  
 
 **Intra- and Inter-Group Mutual Learning Network for Lightweight Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***     
