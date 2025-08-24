@@ -37,7 +37,7 @@ Selected Papers
 
 **CGCOD: Class-Guided Camouflaged Object Detection**      
 Chenxi Zhang, **Qing Zhang\***, Jiayun Wu, Youwei Pang\*    
-ACM Multimedia (***ACM MM***), 2025     
+ACM International Conference on Multimedia (***ACM MM***), 2025     
 [\[Code\]](https://github.com/bbdjj/CGCOD)     
    
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
