@@ -47,81 +47,81 @@ IEEE International Conference on Multimedia & Expo (***ICME***), 2025  【**CCF-
    
 **Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning**    
 Chenxi Zhang, **Qing Zhang\***, Jiayun Wu    
-International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025    
+International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025  【**CCF-B**】   
 [\[Code\]](https://github.com/bbdjj/FBINet) [\[PDF\]](https://ieeexplore.ieee.org/document/10889016)    
       
 **Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection**  
 Rui Zhao, Yuetong Li, **Qing Zhang\***, Xinyi Zhao    
-Knowledge-Based Systems (***KBS***), 2025, 314: 113158    
+Knowledge-Based Systems (***KBS***), 2025, 314: 113158  【**中科院1区，Top**】     
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002059)    
          
 **Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li    
-International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025   
+International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025  【**CCF-B**】  
 [\[Code\]](https://github.com/LinAyq/FHCNet) [\[PDF\]](https://ieeexplore.ieee.org/document/10887964)  
 
 **FLRNet: A Bio-inspired Three-stage Network for Camouflaged Object Detection via Filtering, Localization and Refinement**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li   
-Neurocomputing (***NEURO***), 2025, 626: 129523      
+Neurocomputing (***NEURO***), 2025, 626: 129523  【**中科院2区**】     
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S092523122500195X)    
 
 **HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation**    
 Zhoujie Xu, Meng Dai\*, **Qing Zhang**, Xiaodi Jiang  
-Neurocomputing (***NEURO***), 2025, 619(28): 129154  
+Neurocomputing (***NEURO***), 2025, 619(28): 129154  【**中科院2区**】 
 [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
 
 **A Dual-stream Learning Framework for Weakly Supervised Salient Object Detection with Multi-strategy Integration**    
 Yuyan Liu, **Qing Zhang\***, Yilin Zhao, Yanjiao Shi  
-The Visual Computer (***TVC***), 2025.    
+The Visual Computer (***TVC***), 2025  【**中科院3区**】   
 [\[Code\]](https://github.com/boom118/BSnet) [\[PDF\]](https://link.springer.com/article/10.1007/s00371-025-03798-9)   
         
 **FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
 Qiang Yu, **Qing Zhang\***, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-C**】   
 [\[Code\]](https://github.com/ZhangQing0329/FGNet)   
      
 **HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection**    
 Jiayun Wu, **Qing Zhang\***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-C**】  
 [\[Code\]](https://github.com/ZhangQing0329/HEFNet)    
       
 **Dual-domain Collaboration Learning Network for Camouflaged Object Detection**    
 Jingming Wang, **Qing Zhang\***, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-C**】     
 [\[Code\]](https://github.com/ZhangQing0329/DCLNet)   
       
 **Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection**     
 Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou    
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025     
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-C**】     
 [\[Code\]](https://github.com/splendid131313/DOERNet)    
 
 **Boundary-and-Object Collaborative Learning Network for Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan    
-Image and Vision Computing (***IMAVIS***), 2025, 161: 105596      
+Image and Vision Computing (***IMAVIS***), 2025, 161: 105596  【**中科院3区**】     
 [\[Code\]](https://github.com/ZhangQing0329/BCLNet)  [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842)     
 
 **FINet: Detecting Camouflaged Objects Using Frequency-aware Information**     
 Chengfeng Zhu, Zeming Liu, **Qing Zhang\***   
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025    
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025  【**CCF-C**】   
 
 **SAM2-LPNet: Saliency Guided and Laplacian Aware Fine-tuning of SAM2 for Weakly Supervised Salient Object Detection**       
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025   
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025  【**CCF-C**】  
 
 **Collaborative Perception and Dual-stage Decoder Network for Camouflaged Object Detection**       
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025  
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025 【**CCF-C**】  
 
 **Intra- and Inter-Group Mutual Learning Network for Lightweight Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***     
-International Conference on Intelligent Computing (***ICIC***), 2025: 164-176   
+International Conference on Intelligent Computing (***ICIC***), 2025: 164-176  【**CCF-C**】  
 [\[PDF\]](https://link.springer.com/chapter/10.1007/978-981-96-9961-2_14)  
 
 **Rethinking Lightweight and Efficient Human Pose Esrimation with Star Operation Reconstruction**  
 Xu Zhoujie, Meng Dai\*, **Qing Zhang**, Huawen Liu   
-International Conference on Knowledge Science, Engineering and Management (***KSEM***), 2025     
+International Conference on Knowledge Science, Engineering and Management (***KSEM***), 2025 【**CCF-C**】     
 
 **A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network**  
 Zhenjie Ji, Yanjiao Shi\*, **Qing Zhang**, Qiangqiang Zhou     
-International Conference on Artificial Neural Networks (***ICANN***), 2025   
+International Conference on Artificial Neural Networks (***ICANN***), 2025  【**CCF-C**】  
 
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
