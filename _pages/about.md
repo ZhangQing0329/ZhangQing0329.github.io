@@ -37,47 +37,74 @@ Selected Papers
 
 **CGCOD: Class-Guided Camouflaged Object Detection**      
 Chenxi Zhang, **Qing Zhang\***, Jiayun Wu, Youwei Pang\*    
-ACM International Conference on Multimedia (***ACM MM***), 2025  【**CCF-A**】   
+ACM International Conference on Multimedia (***ACM MM***), 2025    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-A**
+</span>]  
 [\[Code\]](https://github.com/bbdjj/CGCOD)     
    
 **Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
 Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
-IEEE International Conference on Multimedia & Expo (***ICME***), 2025  【**CCF-B**】     
+IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-B**
+</span>]     
 [\[Code\]](https://github.com/iuueong/FPDNet)   
    
 **Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning**    
 Chenxi Zhang, **Qing Zhang\***, Jiayun Wu    
-International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025  【**CCF-B**】   
+International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-B**
+</span>]    
 [\[Code\]](https://github.com/bbdjj/FBINet) [\[PDF\]](https://ieeexplore.ieee.org/document/10889016)    
       
 **Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection**  
 Rui Zhao, Yuetong Li, **Qing Zhang\***, Xinyi Zhao    
-Knowledge-Based Systems (***KBS***), 2025, 314: 113158  【**中科院1区，Top**】     
+Knowledge-Based Systems (***KBS***), 2025, 314: 113158   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院1区, Top**
+</span>]      
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002059)    
          
 **Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li    
-International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025  【**CCF-B**】  
+International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-B**
+</span>]    
 [\[Code\]](https://github.com/LinAyq/FHCNet) [\[PDF\]](https://ieeexplore.ieee.org/document/10887964)  
 
 **FLRNet: A Bio-inspired Three-stage Network for Camouflaged Object Detection via Filtering, Localization and Refinement**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li   
-Neurocomputing (***NEURO***), 2025, 626: 129523  【**中科院2区**】     
+Neurocomputing (***NEURO***), 2025, 626: 129523         
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院2区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S092523122500195X)    
 
 **HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation**    
 Zhoujie Xu, Meng Dai\*, **Qing Zhang**, Xiaodi Jiang  
-Neurocomputing (***NEURO***), 2025, 619(28): 129154  【**中科院2区**】 
+Neurocomputing (***NEURO***), 2025, 619(28): 129154    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院2区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
 
 **A Dual-stream Learning Framework for Weakly Supervised Salient Object Detection with Multi-strategy Integration**    
 Yuyan Liu, **Qing Zhang\***, Yilin Zhao, Yanjiao Shi  
-The Visual Computer (***TVC***), 2025  【**中科院3区**】   
+The Visual Computer (***TVC***), 2025    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]     
 [\[Code\]](https://github.com/boom118/BSnet) [\[PDF\]](https://link.springer.com/article/10.1007/s00371-025-03798-9)   
         
 **FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
 Qiang Yu, **Qing Zhang\***, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-C**】   
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]    
 [\[Code\]](https://github.com/ZhangQing0329/FGNet)   
      
 **HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection**    
