@@ -358,31 +358,49 @@ Applied Intelligence, 2023, 53(5): 5146-5159
 **Progressive dual-attention residual network for salient object detection**  
 Liqian Zhang, **Qing Zhang\***, Rui Zhao  
 IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2022, 32(9): 5902-5915   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院1区, Top**
+</span>]   
 [\[PDF\]](https://ieeexplore.ieee.org/document/9745960/) [\[Code\]](https://github.com/ZhangQing0329/PDRNet)    
       
 **Residual attentive feature learning network for salient object detection**  
 **Qing Zhang\***, Yanjiao Shi, Xueqin Zhang, Liqian Zhang  
 Neurocomputing (***NEURO***), 2022, 51:741-752    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院2区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007846)    
       
 **Cross-modal and multi-level feature refinement network for RGB-D salient object detection**  
 Yue Gao, Meng Dai\*, **Qing Zhang**  
 The Visual Computer (***TVC***), 2022, 39: 3979-3994      
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]  
 [\[PDF\]](https://link.springer.com/article/10.1007/s00371-022-02543-w)    
 
 **COMAL: compositional multi-scale feature enhanced learning for crowd counting**     
 Fangbo Zhou, Huailin Zhao\*, Yani Zhang, **Qing Zhang**, Lanjun Liang, Yaoyao Li, Zuodong Duan     
-Multimedia Tools and Applications, 2022, 81(15): 20541-20560     
+Multimedia Tools and Applications, 2022, 81(15): 20541-20560    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院4区**
+</span>]   
 [\[PDF\]](https://link.springer.com/article/10.1007/s11042-022-12249-9)    
 
 **R2Net: Residual refinement network for salient object detection**     
 Jin Zhang, Qiuwei Liang, Qianqian Guo, Jinyu Yang, **Qing Zhang**, Yanjiao Shi\*    
-Image and Vision Computing (***IMAVIS***), 2022, 120: 104423    
+Image and Vision Computing (***IMAVIS***), 2022, 120: 104423   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]   
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S026288562200052X)    
     
 **Attention guided contextual feature fusion network for salient object detection**    
 Jin Zhang, Yanjiao Shi\*, **Qing Zhang**, Liu Cui, Ying Chen, Yugen Yi   
 Image and Vision Computing (***IMAVIS***), 2022, 117: 104337    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002420)          
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2021</span>
