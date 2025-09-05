@@ -83,7 +83,7 @@ International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-
 **HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection**    
 Jiayun Wu, **Qing Zhang\***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
 International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
-[<span style="color:rgba(47, 79, 79, 1); font-weight: bold;">
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
 **CCF-C**
 </span>]  
 [\[Code\]](https://github.com/ZhangQing0329/HEFNet)    
