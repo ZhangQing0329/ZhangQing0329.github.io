@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:rgb(246, 107, 225); font-size: 28px;font-weight: bold;">
+<span style="color:rgb(10, 30, 183); font-size: 28px;font-weight: bold;">
 About
 </span>
 <div style="height: 10px;"></div>  
@@ -17,12 +17,12 @@ I received my Ph.D. degree at East China University of Science and Technology (E
 </p>
 <div style="height: 15px;"></div>  
 
-<span style="color:rgb(246, 107, 225); font-size: 28px;font-weight: bold;">
+<span style="color:rgba(10, 30, 183); font-size: 28px;font-weight: bold;">
 Selected Papers
 </span>
 <div style="height: 10px;"></div>  
 
-<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2025</span>
+<span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2025</span>
 <style>
   .colored-line {
     border: 0;
@@ -181,7 +181,7 @@ International Conference on Artificial Neural Networks (***ICANN***), 2025
 </span>]    
 
 
-<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
+<span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2024</span>
 <style>
   .colored-line {
     border: 0;
@@ -282,7 +282,7 @@ Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047
 </span>]     
 [\[PDF\]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-4/043047/D2Net--discriminative-feature-extraction-and-details-preservation-network-for/10.1117/1.JEI.33.4.043047.short)   
 
-<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2023</span>
+<span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2023</span>
 <style>
   .colored-line {
     border: 0;
@@ -342,7 +342,7 @@ Applied Intelligence, 2023, 53(5): 5146-5159
 **中科院3区**
 </span>]    
 
-<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2022</span>
+<span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2022</span>
 <style>
   .colored-line {
     border: 0;
@@ -403,7 +403,7 @@ Image and Vision Computing (***IMAVIS***), 2022, 117: 104337
 </span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002420)          
 
-<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2021</span>
+<span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2021</span>
 <style>
   .colored-line {
     border: 0;
@@ -448,7 +448,7 @@ Image and Vision Computing (***IMAVIS***), 2021, 116: 104326
 </span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002316)     
 
-<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2020</span>
+<span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2020</span>
 <style>
   .colored-line {
     border: 0;
