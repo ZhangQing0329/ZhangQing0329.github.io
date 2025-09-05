@@ -117,41 +117,68 @@ International Joint Conference on Neural Networks (**_IJCNN_**), 2025
       
 **Dual-domain Collaboration Learning Network for Camouflaged Object Detection**    
 Jingming Wang, **Qing Zhang\***, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-C**】     
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]      
 [\[Code\]](https://github.com/ZhangQing0329/DCLNet)   
       
 **Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection**     
 Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou    
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025  【**CCF-C**】     
+International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]       
 [\[Code\]](https://github.com/splendid131313/DOERNet)    
 
 **Boundary-and-Object Collaborative Learning Network for Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan    
-Image and Vision Computing (***IMAVIS***), 2025, 161: 105596  【**中科院3区**】     
+Image and Vision Computing (***IMAVIS***), 2025, 161: 105596    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]     
 [\[Code\]](https://github.com/ZhangQing0329/BCLNet)  [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842)     
 
 **FINet: Detecting Camouflaged Objects Using Frequency-aware Information**     
 Chengfeng Zhu, Zeming Liu, **Qing Zhang\***   
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025  【**CCF-C**】   
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]    
 
 **SAM2-LPNet: Saliency Guided and Laplacian Aware Fine-tuning of SAM2 for Weakly Supervised Salient Object Detection**       
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025  【**CCF-C**】  
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]   
 
 **Collaborative Perception and Dual-stage Decoder Network for Camouflaged Object Detection**       
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025 【**CCF-C**】  
+The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025     
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]  
 
 **Intra- and Inter-Group Mutual Learning Network for Lightweight Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***     
-International Conference on Intelligent Computing (***ICIC***), 2025: 164-176  【**CCF-C**】  
+International Conference on Intelligent Computing (***ICIC***), 2025: 164-176   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]   
 [\[PDF\]](https://link.springer.com/chapter/10.1007/978-981-96-9961-2_14)  
 
 **Rethinking Lightweight and Efficient Human Pose Esrimation with Star Operation Reconstruction**  
 Xu Zhoujie, Meng Dai\*, **Qing Zhang**, Huawen Liu   
-International Conference on Knowledge Science, Engineering and Management (***KSEM***), 2025 【**CCF-C**】     
+International Conference on Knowledge Science, Engineering and Management (***KSEM***), 2025  
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]      
 
 **A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network**  
 Zhenjie Ji, Yanjiao Shi\*, **Qing Zhang**, Qiangqiang Zhou     
-International Conference on Artificial Neural Networks (***ICANN***), 2025  【**CCF-C**】  
+International Conference on Artificial Neural Networks (***ICANN***), 2025   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]    
 
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2024</span>
@@ -170,56 +197,89 @@ International Conference on Artificial Neural Networks (***ICANN***), 2025  【*
 **Salient Object Detection with Edge-guided Learning and Specific Aggregation**  
 Liqian Zhang, **Qing Zhang\***  
 IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2024, 34(1): 534-548   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院1区, Top**
+</span>]  
 [\[PDF\]](https://ieeexplore.ieee.org/document/10155248)  [\[Code\]](https://github.com/ZhangQing0329/ELSANet)        
       
 **Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection**  
 Jicheng Yang, **Qing Zhang\***, Yilin Zhao, Yuetong Li, Zeming Liu  
 IEEE International Conference on Multimedia and Expo (***ICME***), 2024   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-B**
+</span>]  
 [\[PDF\]](https://ieeexplore.ieee.org/document/10687766)  [\[Code\]](https://github.com/Jcogito/BIRNet)      
        
 **Detecting Camouflaged Object via Cross-level Context Supplement**   
 **Qing Zhang\***, Weiqi Yan, Rui Zhao, Yanjiao Shi   
 Applied Intelligence, 2024    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]  
 [\[PDF\]](https://link.springer.com/article/10.1007/s10489-024-05694-6)  [\[Code\]](https://github.com/ZhangQing0329/CCSNet)     
       
 **BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection**  
 Chenwang Sun, **Qing Zhang\***, Chenyu Zhuang, Mingqian Zhang  
 Image and Vision Computing (***IMAVIS***), 2024, 147: 105048  
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)     
       
 **Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection**     
 Yilin Zhao, **Qing Zhang\***, Yuetong Li  
 Asian Conference on Computer Vision (***ACCV***), 2024.   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]  
 [\[Code\]](https://github.com/LinAyq/DCNet)  [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2024/papers/Zhao_Frequency_Learning_Network_with_Dual-Guidance_Calibration_for_Camouflaged_Object_Detection_ACCV_2024_paper.pdf)   
       
 **Transformer-based Depth Optimization Network for RGB-D Salient Object Detection**   
 Lu Li, Yanjiao Shi\*, Jingyu Yang, Qiangqiang Zhou, **Qing Zhang**, Liu Cui  
-International Conference on Pattern Recognition (***ICPR***), 2024.  
+International Conference on Pattern Recognition (***ICPR***), 2024.   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-C**
+</span>]  
 [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_28)  
       
 **AFINet: Camouflaged object detection via attention fusion and interaction network**  
 **Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang\*  
-Journal of Visual Communication and Image Representation (***JVCIR***), 2024  
+Journal of Visual Communication and Image Representation (***JVCIR***), 2024    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院4区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640)  [\[Code\]](https://github.com/ZhangQing0329/AFINet)    
       
 **Boosting transferability of adversarial samples via saliency distribution and frequency domain enhancement**   
 Yixuan Wang, Wei Hong, Xueqin Zhang\*, **Qing Zhang**, Chunhua Gu    
 Knowledge-Based Systems (***KBS***), 2024, 300: 112152    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院1区, Top**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S095070512400786X)   
 
 **Light-sensitive and adaptive fusion network for RGB-T crowd counting**   
 Liangjun Huang\*, Wencan Kang, Guangkai Chen, **Qing Zhang**, Jianwei Zhang    
 The Visual Computer (***TVC***), 2024, 40(10): 7279-7292     
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]  
 [\[PDF\]](https://link.springer.com/article/10.1007/s00371-024-03388-1)   
 
 **Multi-branch feature fusion and refinement network for salient object detection**   
 Jinyu Yang, Yanjiao Shi\*, Jin Zhang, Qianqian Guo, **Qing Zhang**, Liu Cui    
 Multimedia Systems, 2024, 30(4): 190    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院4区**
+</span>]  
 [\[PDF\]](https://link.springer.com/article/10.1007/s00530-024-01356-2)   
   
 **D2Net: discriminative feature extraction and details preservation network for salient object detection**     
 Qianqian Guo, Yanjiao Shi\*, Jin Zhang, Jinyu Yang, **Qing Zhang**   
-Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047       
+Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院4区**
+</span>]     
 [\[PDF\]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-4/043047/D2Net--discriminative-feature-extraction-and-details-preservation-network-for/10.1117/1.JEI.33.4.043047.short)   
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2023</span>
@@ -237,32 +297,50 @@ Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047
       
 **Depth cue enhancement and guidance network for RGB-D salient object detection**  
 Xiang Li, **Qing Zhang\***, Weiqi Yan, Meng Dai  
-Journal of Visual Communication and Image Representation (***JVCIR***), 2023, 95: 103880  
+Journal of Visual Communication and Image Representation (***JVCIR***), 2023, 95: 103880    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院4区**
+</span>]  
 [\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)  [\[Code\]](https://github.com/ZhangQing0329/DEGNet)       
       
 **CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection**  
 **Qing Zhang\***, Weiqi Yan  
 IEEE International Conference on Multimedia and Expo (***ICME***), 2023: 2441-2446    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-B**
+</span>]  
 [\[PDF\]](https://ieeexplore.ieee.org/document/10219858) [\[Code\]](https://github.com/ZhangQing0329/CFANet)
       
 **TCRNet: a trifurcated cascaded refinement network for salient object detection**  
 **Qing Zhang\***, Rui Zhao, Liqian Zhang  
-IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 298-311  
+IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 298-311    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院1区, Top**
+</span>]  
 [\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)  [\[Code\]](https://github.com/ZhangQing0329/TCRNet)   
            
 **Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation**  
 Jinghui Shi, **Qing Zhang\***, Yuhao Tang, Zhongqun Zhang  
 IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 30-42   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院1区, Top**
+</span>]  
 [\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)   
 
 **Motion Analysis and Reconstruction of Human Joint Regions for Sparse RGBD Images**   
 Tianzhen Dong, Yuntao Bai, **Qing Zhang**, Yi Zhang   
-IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (***VRW***), 2023: 773-774      
+IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (***VRW***), 2023: 773-774   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**CCF-A**
+</span>]     
 [\[PDF\]](https://ieeexplore.ieee.org/document/10108739/)    
      
 **SC2Net: Scale-aware Crowd Counting Network with Pyramid Dilated Convolution**
 Lanjun Liang\*, Huailin Zhao, Fangbo Zhou, **Qing Zhang**, Zhili Song, Qingxuan Shi    
-Applied Intelligence, 2023, 53(5): 5146-5159     
+Applied Intelligence, 2023, 53(5): 5146-5159   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]    
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2022</span>
 <style>
