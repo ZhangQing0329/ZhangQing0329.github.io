@@ -471,7 +471,7 @@ Pattern Recognition (***PR***), 2020, 107: 107-484
 Neurocomputing, 2020, 411: 268-281    
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309346)     
 
-<span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2019 and Before</span>
+<span style="color:rgb(63, 114, 175); font-size: 22px;font-weight: bold;">2019 and Before</span>
 <style>
   .colored-line {
     border: 0;
