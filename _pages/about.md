@@ -419,21 +419,33 @@ Image and Vision Computing (***IMAVIS***), 2022, 117: 104337
 **Global and local information aggregation network for edge-aware salient object detection**  
 **Qing Zhang\***, Liqian Zhang, Dong Wang, Yanjiao Shi, Jianjun Lin  
 Journal of Visual Communication and Image Representation (***JVCIR***), 2021, 81: 103350    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院4区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002303)          
        
 **Deep saliency detection via spatial-wise dilated convolutional attention**  
 Wenzhao Cui, **Qing Zhang\***, Baochuan Zuo  
 Neurocomputing, 2021, 445: 35-49     
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院2区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221003179)        
       
 **Edge-aware salient object detection network via context guidance**  
 Xiaowei Chen, **Qing Zhang\***, Liqian Zhang  
 Image and Vision Computing (***IMAVIS***), 2021, 110: 104166    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621000718)     
      
 **Salient object detection network with multi-scale feature  refinement and boundary feedback**   
 **Qing Zhang\***, Xiang Li   
 Image and Vision Computing (***IMAVIS***), 2021, 116: 104326      
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院3区**
+</span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002316)     
 
 <span style="color:rgb(201, 85, 184); font-size: 22px;font-weight: bold;">2020</span>
