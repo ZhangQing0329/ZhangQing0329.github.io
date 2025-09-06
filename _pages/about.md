@@ -137,14 +137,18 @@ International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
 </span>] [<a href="https://github.com/ZhangQing0329/HEFNet" target="_blank">Code</a>]    
 </div>
 </div>      
-      
-**Dual-domain Collaboration Learning Network for Camouflaged Object Detection**    
-Jingming Wang, **Qing Zhang\***, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]      
-[\[Code\]](https://github.com/ZhangQing0329/DCLNet)   
+
+ <div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(69, 9, 67, 1)">       
+<strong>Dual-domain Collaboration Learning Network for Camouflaged Object Detection</strong><br>    
+Jingming Wang, <strong>Qing Zhang*</strong>, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou<br>      
+International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] [<a href="https://github.com/ZhangQing0329/DCLNet" target="_blank">Code</a>]    
+</div>
+</div>     
       
 **Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection**     
 Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou    
