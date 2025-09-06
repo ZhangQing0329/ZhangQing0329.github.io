@@ -112,14 +112,19 @@ The Visual Computer (***TVC***), 2025
 **中科院3区**
 </span>]     
 [\[Code\]](https://github.com/boom118/BSnet) [\[PDF\]](https://link.springer.com/article/10.1007/s00371-025-03798-9)   
-        
-**FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection**      
-Qiang Yu, **Qing Zhang\***, Yanjiao Shi, Qiangqiang Zhou      
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]    
-[\[Code\]](https://github.com/ZhangQing0329/FGNet)   
+
+
+<div style="display:flex; margin-bottom: 20px; height:110px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)"> 
+<strong>FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection</strong><br>      
+Qiang Yu, <strong>Qing Zhang*</strong>, Yanjiao Shi, Qiangqiang Zhou<br>
+International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] [<a href="https://github.com/ZhangQing0329/FGNet" target="_blank">Code</a>]    
+</div>
+</div>      
      
 **HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection**    
 Jiayun Wu, **Qing Zhang\***, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou     
