@@ -162,7 +162,7 @@ International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
 </div>
 </div> 
 
-<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:1px"> 
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
