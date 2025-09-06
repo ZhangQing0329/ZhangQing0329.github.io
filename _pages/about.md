@@ -153,7 +153,7 @@ International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
 <div style="display:flex; margin-bottom: 20px; height:120px;">
 <div style="flex:1;padding-right:1px"> 
 </div>
-<div style="flex:500; padding-left:10px; border-left:4px solid rgba(94, 12, 91, 1)">       
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
 <strong>Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection</strong><br>    
 Xiaoxu Yang, <strong>Qing Zhang*</strong>, Qiangqiang Zhou<br>    
 International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>    
