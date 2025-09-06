@@ -55,14 +55,11 @@ ACM International Conference on Multimedia (<em>ACM MM</em>), 2025<br>
 <img src=".\images\icme2025.png" alt="network-zhao" style="max-width:100%; height:auto;">  
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">  
-
-**Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance**  
-Yuetong Li, Yilin Zhao, **Qing Zhang\***, Qiangqiang Zhou, Yanjiao Shi      
-IEEE International Conference on Multimedia & Expo (***ICME***), 2025    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-B**
-</span>]     
-[\[Code\]](https://github.com/iuueong/FPDNet)     
+<strong>Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance</strong><br>
+Yuetong Li, Yilin Zhao, <strong>Qing Zhang*</strong>, Qiangqiang Zhou, Yanjiao Shi<br>
+IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2025<br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong></span>]     
+[<a href="https://github.com/iuueong/FPDNet" target="_blank">Code</a>]     
 </div>
 </div> 
    
