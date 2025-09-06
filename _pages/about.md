@@ -47,15 +47,14 @@ Chenxi Zhang, **Qing Zhang\***, Jiayun Wu, Youwei Pang\*
 ACM International Conference on Multimedia (***ACM MM***), 2025    
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
 **CCF-A**
-</span>]  
-[\[Code\]](https://github.com/bbdjj/CGCOD)     
+</span>] [\[Code\]](https://github.com/bbdjj/CGCOD)     
 </div>
 </div>
 
 <div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:10px">  
 
-![network](.\images\icme2025.png) 
+<img src=".\images\icme2025.png" alt="network-zhao" style="max-width:100%; height:auto;">  
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">  
 
