@@ -40,7 +40,7 @@ Selected Papers
 
 <img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/net.png" alt="network" style="max-width:100%; height:auto;">
 </div>
-<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">   
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">   
 <strong>CGCOD: Class-Guided Camouflaged Object Detection</strong><br>
 Chenxi Zhang, <strong>Qing Zhang*</strong>, Jiayun Wu, Youwei Pang*<br> 
 ACM International Conference on Multimedia (<em>ACM MM</em>), 2025<br>
@@ -52,7 +52,7 @@ ACM International Conference on Multimedia (<em>ACM MM</em>), 2025<br>
 <div style="flex:1;padding-right:10px"> 
 <img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/icme2025.png" alt="network-zhao" style="max-width:100%; height:auto;"> 
 </div>
-<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">  
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">  
 <strong>Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance</strong><br>
 Yuetong Li, Yilin Zhao, <strong>Qing Zhang*</strong>, Qiangqiang Zhou, Yanjiao Shi<br>
 IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2025<br>
@@ -64,7 +64,7 @@ IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2025<br>
 <div style="flex:1;padding-right:10px"> 
 <img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/icassp-zhang.png" alt="network" style="max-width:100%; height:auto;">
 </div>
-<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">     
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">     
 <strong>Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning</strong><br>    
 Chenxi Zhang, <strong>Qing Zhang*</strong>, Jiayun Wu<br>    
 International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2025<br>  
@@ -117,7 +117,7 @@ The Visual Computer (***TVC***), 2025
 <div style="display:flex; margin-bottom: 20px; height:110px;">
 <div style="flex:1;padding-right:1px"> 
 </div>
-<div style="flex:500; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)"> 
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection</strong><br>      
 Qiang Yu, <strong>Qing Zhang*</strong>, Yanjiao Shi, Qiangqiang Zhou<br>
 International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
@@ -129,7 +129,7 @@ International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
 <div style="display:flex; margin-bottom: 20px; height:120px;">
 <div style="flex:1;padding-right:1px"> 
 </div>
-<div style="flex:500; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">      
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">      
 <strong>HEFNet: Hierarchical Unimodal Enhancement and Multi-modal Fusion for RGB-T Salient Object Detection</strong><br>     
 Jiayun Wu, <strong>Qing Zhang*</strong>, Chenxi Zhang, Yanjiao Shi, Qiangqiang Zhou<br>      
 International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>   
@@ -141,7 +141,7 @@ International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
  <div style="display:flex; margin-bottom: 20px; height:120px;">
 <div style="flex:1;padding-right:1px"> 
 </div>
-<div style="flex:500; padding-left:10px; border-left:4px solid rgba(69, 9, 67, 1)">       
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
 <strong>Dual-domain Collaboration Learning Network for Camouflaged Object Detection</strong><br>    
 Jingming Wang, <strong>Qing Zhang*</strong>, Xinyi Zhao, Yanjiao Shi, Qiangqiang Zhou<br>      
 International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>   
