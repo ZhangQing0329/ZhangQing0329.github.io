@@ -38,7 +38,7 @@ Selected Papers
 <div style="display:flex; margin-bottom: 20px; height:110px;">
 <div style="flex:1;padding-right:10px">  
 
-<img src=".\images\net.png" alt="network" style="max-width:100%; height:auto;">
+<img src="./images/net.png" alt="network" style="max-width:100%; height:auto;">
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">  
 
@@ -64,7 +64,7 @@ IEEE International Conference on Multimedia & Expo (***ICME***), 2025
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
 **CCF-B**
 </span>]     
-[\[Code\]](https://github.com/iuueong/FPDNet)  
+[\[Code\]](https://github.com/iuueong/FPDNet)     
 </div>
 </div> 
    
