@@ -160,22 +160,30 @@ International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
 </span>] [<a href="https://github.com/splendid131313/DOERNet" target="_blank">Code</a>]    
 </div>
-</div>           
+</div> 
 
-**Boundary-and-Object Collaborative Learning Network for Camouflaged Object Detection**    
-Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan    
-Image and Vision Computing (***IMAVIS***), 2025, 161: 105596    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]     
-[\[Code\]](https://github.com/ZhangQing0329/BCLNet)  [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842)     
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Boundary-and-Object Collaborative Learning Network for Camouflaged Object Detection</strong><br>    
+Chenyu Zhuang, <strong>Qing Zhang*</strong>, Chenxi Zhang, Xinxin Yuan<br>    
+Image and Vision Computing (<em>IMAVIS</em>), 2025, 161: 105596<br>    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong>
+</span>] [<a href="https://github.com/ZhangQing0329/BCLNet" target="_blank">Code</a>] [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885625001842" target="_blank">PDF</a>]   
+</div>
+</div>    
 
-**FINet: Detecting Camouflaged Objects Using Frequency-aware Information**     
-Chengfeng Zhu, Zeming Liu, **Qing Zhang\***   
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]    
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>FINet: Detecting Camouflaged Objects Using Frequency-aware Information</strong><br>      
+Chengfeng Zhu, Zeming Liu, <strong>Qing Zhang*</strong><br>    
+The Chinese Conference on Pattern Recognition and Computer Vision (<em>PRCV</em>), 2025<br>   
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong></span>]  
+</div>
+</div>     
 
 **SAM2-LPNet: Saliency Guided and Laplacian Aware Fine-tuning of SAM2 for Weakly Supervised Salient Object Detection**       
 The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025    
