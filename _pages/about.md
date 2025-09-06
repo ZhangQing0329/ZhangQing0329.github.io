@@ -149,14 +149,18 @@ International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>
 </span>] [<a href="https://github.com/ZhangQing0329/DCLNet" target="_blank">Code</a>]    
 </div>
 </div>     
-      
-**Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection**     
-Xiaoxu Yang, **Qing Zhang\***, Qiangqiang Zhou    
-International Joint Conference on Neural Networks (**_IJCNN_**), 2025    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]       
-[\[Code\]](https://github.com/splendid131313/DOERNet)    
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(94, 12, 91, 1)">       
+<strong>Direction-Oriented Edge Reconstruction Network for Camouflaged Object Detection</strong><br>    
+Xiaoxu Yang, <strong>Qing Zhang*</strong>, Qiangqiang Zhou<br>    
+International Joint Conference on Neural Networks (<em>IJCNN</em>), 2025<br>    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] [<a href="https://github.com/splendid131313/DOERNet" target="_blank">Code</a>]    
+</div>
+</div>           
 
 **Boundary-and-Object Collaborative Learning Network for Camouflaged Object Detection**    
 Chenyu Zhuang, **Qing Zhang\***, Chenxi Zhang, Xinxin Yuan    
