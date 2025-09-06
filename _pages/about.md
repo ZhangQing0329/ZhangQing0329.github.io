@@ -50,7 +50,7 @@ ACM International Conference on Multimedia (<em>ACM MM</em>), 2025<br>
 
 <div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:10px"> 
-<img src=".\images\icme2025.png" alt="network-zhao" style="max-width:100%; height:auto;"> 
+<img src="./images/icme2025.png" alt="network-zhao" style="max-width:100%; height:auto;"> 
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">  
 <strong>Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance</strong><br>
