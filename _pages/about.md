@@ -73,13 +73,18 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 </div>
 </div>    
       
-**Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection**  
-Rui Zhao, Yuetong Li, **Qing Zhang\***, Xinyi Zhao    
-Knowledge-Based Systems (***KBS***), 2025, 314: 113158   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院1区, Top**
-</span>]      
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002059)    
+<div style="display:flex; margin-bottom: 20px; height:155px;">
+<div style="flex:1;padding-right:10px"> 
+<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/BDCL.png" alt="network" style="max-width:100%; height:auto;">
+</div>
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">     
+<strong>Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection</strong><br>   
+Rui Zhao, Yuetong Li, <strong>Qing Zhang*</strong>, Xinyi Zhao<br>     
+Knowledge-Based Systems (<em>KBS</em>), 2025, 314: 113158<br>    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区, Top</strong>
+</span>] [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125002059" target="_blank">PDF</a>]    
+</div>
+</div>    
          
 **Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
 Yilin Zhao, **Qing Zhang\***, Yuetong Li    
