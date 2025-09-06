@@ -40,11 +40,10 @@ Selected Papers
 
 <img src="./images/net.png" alt="network" style="max-width:100%; height:auto;">
 </div>
-<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">  
-
-<strong>CGCOD: Class-Guided Camouflaged Object Detection</strong>      
-Chenxi Zhang, <strong>Qing Zhang*</strong>, Jiayun Wu, Youwei Pang\*    
-ACM International Conference on Multimedia (<em>ACM MM</em>), 2025    
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">   
+<strong>CGCOD: Class-Guided Camouflaged Object Detection</strong><br>
+Chenxi Zhang, <strong>Qing Zhang*</strong>, Jiayun Wu, Youwei Pang*<br> 
+ACM International Conference on Multimedia (<em>ACM MM</em>), 2025<br>
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-A</strong></span>]    
 [<a href="https://github.com/bbdjj/CGCOD" target="_blank">Code</a>]      
 </div>
