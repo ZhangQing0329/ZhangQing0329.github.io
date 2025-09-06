@@ -42,7 +42,7 @@ Selected Papers
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">  
 
-**CGCOD: Class-Guided Camouflaged Object Detection**      
+<strong>CGCOD: Class-Guided Camouflaged Object Detection</strong>      
 Chenxi Zhang, **Qing Zhang\***, Jiayun Wu, Youwei Pang\*    
 ACM International Conference on Multimedia (***ACM MM***), 2025    
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
