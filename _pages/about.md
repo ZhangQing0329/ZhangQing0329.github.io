@@ -63,7 +63,7 @@ IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2025<br>
 <div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:10px"> 
 
-![network1](./images/icme2025.png)
+![network1](/images/icme2025.png)
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">     
 <strong>Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning</strong><br>    
