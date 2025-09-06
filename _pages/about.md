@@ -59,14 +59,20 @@ IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2025<br>
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong></span>] [<a href="https://github.com/iuueong/FPDNet" target="_blank">Code</a>]     
 </div>
 </div> 
-   
-**Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning**    
-Chenxi Zhang, **Qing Zhang\***, Jiayun Wu    
-International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-B**
-</span>]    
-[\[Code\]](https://github.com/bbdjj/FBINet) [\[PDF\]](https://ieeexplore.ieee.org/document/10889016)    
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:10px"> 
+
+![network1](./images/icme2025.png)
+</div>
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(125, 119, 176, 1)">     
+<strong>Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning</strong><br>    
+Chenxi Zhang, <strong>Qing Zhang*</strong>, Jiayun Wu<br>    
+International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2025<br>  
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>] [<a href="https://github.com/bbdjj/FBINet" target="_blank">Code</a>] [<a href="https://ieeexplore.ieee.org/document/10889016" target="_blank">PDF</a>]    
+</div>
+</div>    
       
 **Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection**  
 Rui Zhao, Yuetong Li, **Qing Zhang\***, Xinyi Zhao    
