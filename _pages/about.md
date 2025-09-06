@@ -44,7 +44,7 @@ Selected Papers
 <strong>CGCOD: Class-Guided Camouflaged Object Detection</strong><br>
 Chenxi Zhang, <strong>Qing Zhang*</strong>, Jiayun Wu, Youwei Pang*<br> 
 ACM International Conference on Multimedia (<em>ACM MM</em>), 2025<br>
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-A</strong></span>]    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-A</strong></span>]<br>
 [<a href="https://github.com/bbdjj/CGCOD" target="_blank">Code</a>]      
 </div>
 </div>
@@ -58,7 +58,7 @@ ACM International Conference on Multimedia (<em>ACM MM</em>), 2025<br>
 <strong>Frequency-guided Camouflaged Object Detection with Perceptual Enhancement and Dynamic Balance</strong><br>
 Yuetong Li, Yilin Zhao, <strong>Qing Zhang*</strong>, Qiangqiang Zhou, Yanjiao Shi<br>
 IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2025<br>
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong></span>]     
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong></span>]<br> 
 [<a href="https://github.com/iuueong/FPDNet" target="_blank">Code</a>]     
 </div>
 </div> 
