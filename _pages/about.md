@@ -253,13 +253,18 @@ International Conference on Artificial Neural Networks (***ICANN***), 2025
 
 <div style="height: 20px;"></div>  
 
-**Salient Object Detection with Edge-guided Learning and Specific Aggregation**  
-Liqian Zhang, **Qing Zhang\***  
-IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2024, 34(1): 534-548   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院1区, Top**
-</span>]  
-[\[PDF\]](https://ieeexplore.ieee.org/document/10155248)  [\[Code\]](https://github.com/ZhangQing0329/ELSANet)        
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:10px"> 
+<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/TCSVT-zhang2024.png" alt="network4" style="max-width:100%; height:auto;">
+</div>
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">     
+<strong>Salient Object Detection with Edge-guided Learning and Specific Aggregation</strong> <br> 
+Liqian Zhang, <strong>Qing Zhang*</strong> <br> 
+IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2024, 34(1): 534-548<br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区, Top</strong>
+</span>] [<a href="https://github.com/ZhangQing0329/ELSANet" target="_blank">Code</a>] [<a href="https://ieeexplore.ieee.org/document/10155248" target="_blank">PDF</a>]   
+</div>
+</div>         
       
 **Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection**  
 Jicheng Yang, **Qing Zhang\***, Yilin Zhao, Yuetong Li, Zeming Liu  
