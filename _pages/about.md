@@ -75,7 +75,7 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
       
 <div style="display:flex; margin-bottom: 20px; height:155px;">
 <div style="flex:1;padding-right:10px"> 
-<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/BDCL.png" alt="network" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/BDCL.png" alt="network2" style="max-width:100%; height:auto;">
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">     
 <strong>Bilateral Decoupling Complementarity Learning Network for Camouflaged Object Detection</strong><br>   
@@ -86,21 +86,29 @@ Knowledge-Based Systems (<em>KBS</em>), 2025, 314: 113158<br>
 </div>
 </div>    
          
-**Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration**   
-Yilin Zhao, **Qing Zhang\***, Yuetong Li    
-International Conference on Acoustics, Speech, and Signal Processing (***ICASSP***), 2025   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-B**
-</span>]    
-[\[Code\]](https://github.com/LinAyq/FHCNet) [\[PDF\]](https://ieeexplore.ieee.org/document/10887964)  
+<div style="display:flex; margin-bottom: 20px; height:155px;">
+<div style="flex:1;padding-right:10px"> 
+<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/icassp-zhao2025.png" alt="network2" style="max-width:100%; height:auto;">
+</div>
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">     
+<strong>Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration</strong><br>   
+Yilin Zhao, <strong>Qing Zhang*</strong>, Yuetong Li<br>
+International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2025<br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>] [<a href="https://ieeexplore.ieee.org/document/10887964" target="_blank">PDF</a>]    
+</div>
+</div>    
 
-**FLRNet: A Bio-inspired Three-stage Network for Camouflaged Object Detection via Filtering, Localization and Refinement**   
-Yilin Zhao, **Qing Zhang\***, Yuetong Li   
-Neurocomputing (***NEURO***), 2025, 626: 129523         
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院2区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S092523122500195X)    
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>FLRNet: A Bio-inspired Three-stage Network for Camouflaged Object Detection via Filtering, Localization and Refinement</strong><br>
+Yilin Zhao, <strong>Qing Zhang*</strong>, Yuetong Li<br> 
+Neurocomputing (<em>NEURO</em>), 2025, 626: 129523<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>] [<a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122500195X" target="_blank">PDF</a>]   
+</div>
+</div>    
 
 **HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation**    
 Zhoujie Xu, Meng Dai\*, **Qing Zhang**, Xiaodi Jiang  
@@ -110,13 +118,17 @@ Neurocomputing (***NEURO***), 2025, 619(28): 129154
 </span>]  
 [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
 
-**A Dual-stream Learning Framework for Weakly Supervised Salient Object Detection with Multi-strategy Integration**    
-Yuyan Liu, **Qing Zhang\***, Yilin Zhao, Yanjiao Shi  
-The Visual Computer (***TVC***), 2025    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]     
-[\[Code\]](https://github.com/boom118/BSnet) [\[PDF\]](https://link.springer.com/article/10.1007/s00371-025-03798-9)   
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>A Dual-stream Learning Framework for Weakly Supervised Salient Object Detection with Multi-strategy Integration</strong><br>    
+Yuyan Liu, <strong>Qing Zhang*</strong>, Yilin Zhao, Yanjiao Shi<br>
+The Visual Computer (<em>TVC</em>), 2025<br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong>
+</span>] [<a href="https://github.com/boom118/BSnet" target="_blank">Code</a>] </span>] [<a href="https://link.springer.com/article/10.1007/s00371-025-03798-9" target="_blank">PDF</a>]   
+</div>
+</div>     
 
 
 <div style="display:flex; margin-bottom: 20px; height:110px;">
