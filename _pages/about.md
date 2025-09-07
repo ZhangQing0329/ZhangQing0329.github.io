@@ -353,45 +353,65 @@ International Conference on Pattern Recognition (<em>ICPR</em>), 2024. <br>
 </div>
 </div>  
       
-**AFINet: Camouflaged object detection via attention fusion and interaction network**  
-**Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang\*  
-Journal of Visual Communication and Image Representation (***JVCIR***), 2024    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院4区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640)  [\[Code\]](https://github.com/ZhangQing0329/AFINet)    
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>AFINet: Camouflaged object detection via attention fusion and interaction network</strong><br>  
+<strong>Qing Zhang</strong>, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang*<br>  
+Journal of Visual Communication and Image Representation (<em>JVCIR</em>), 2024 <br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong>
+</span>] [<a href="https://github.com/ZhangQing0329/AFINet" target="_blank">Code</a>] [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640" target="_blank">PDF</a>]   
+</div>
+</div>    
       
-**Boosting transferability of adversarial samples via saliency distribution and frequency domain enhancement**   
-Yixuan Wang, Wei Hong, Xueqin Zhang\*, **Qing Zhang**, Chunhua Gu    
-Knowledge-Based Systems (***KBS***), 2024, 300: 112152    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院1区, Top**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S095070512400786X)   
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Boosting transferability of adversarial samples via saliency distribution and frequency domain enhancement</strong> <br> 
+Yixuan Wang, Wei Hong, Xueqin Zhang*, <strong>Qing Zhang</strong>, Chunhua Gu <br> 
+Knowledge-Based Systems (<em>KBS</em>), 2024, 300: 112152 <br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区, Top</strong>
+</span>] [<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512400786X" target="_blank">PDF</a>]   
+</div>
+</div> 
 
-**Light-sensitive and adaptive fusion network for RGB-T crowd counting**   
-Liangjun Huang\*, Wencan Kang, Guangkai Chen, **Qing Zhang**, Jianwei Zhang    
-The Visual Computer (***TVC***), 2024, 40(10): 7279-7292     
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]  
-[\[PDF\]](https://link.springer.com/article/10.1007/s00371-024-03388-1)   
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Light-sensitive and adaptive fusion network for RGB-T crowd counting</strong><br>
+Liangjun Huang*, Wencan Kang, Guangkai Chen, <strong>Qing Zhang</strong>, Jianwei Zhang <br>
+The Visual Computer (<em>TVC</em>), 2024, 40(10): 7279-7292 <br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong>
+</span>] [<a href="https://link.springer.com/article/10.1007/s00371-024-03388-1" target="_blank">PDF</a>]   
+</div>
+</div>   
 
-**Multi-branch feature fusion and refinement network for salient object detection**   
-Jinyu Yang, Yanjiao Shi\*, Jin Zhang, Qianqian Guo, **Qing Zhang**, Liu Cui    
-Multimedia Systems, 2024, 30(4): 190    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院4区**
-</span>]  
-[\[PDF\]](https://link.springer.com/article/10.1007/s00530-024-01356-2)   
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Multi-branch feature fusion and refinement network for salient object detection</strong><br>
+Jinyu Yang, Yanjiao Shi*, Jin Zhang, Qianqian Guo, <strong>Qing Zhang</strong>, Liu Cui<br>
+Multimedia Systems, 2024, 30(4): 190  <br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong>
+</span>] [<a href="https://link.springer.com/article/10.1007/s00530-024-01356-2" target="_blank">PDF</a>]   
+</div>
+</div>   
   
-**D2Net: discriminative feature extraction and details preservation network for salient object detection**     
-Qianqian Guo, Yanjiao Shi\*, Jin Zhang, Jinyu Yang, **Qing Zhang**   
-Journal of Electronic Imaging (***JEI***), 2024, 33(4): : 043047    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院4区**
-</span>]     
-[\[PDF\]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-4/043047/D2Net--discriminative-feature-extraction-and-details-preservation-network-for/10.1117/1.JEI.33.4.043047.short)   
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>D2Net: discriminative feature extraction and details preservation network for salient object detection</strong><br>
+Qianqian Guo, Yanjiao Shi*, Jin Zhang, Jinyu Yang, <strong>Qing Zhang</strong><br>
+Journal of Electronic Imaging (<em>JEI</em>), 2024, 33(4): : 043047 <br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong>
+</span>] [<a href="https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-4/043047/D2Net--discriminative-feature-extraction-and-details-preservation-network-for/10.1117/1.JEI.33.4.043047.short" target="_blank">PDF</a>]   
+</div>
+</div>     
 
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2023</span>
 <style>
