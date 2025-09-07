@@ -401,7 +401,7 @@ Multimedia Systems, 2024, 30(4): 190  <br>
 </div>
 </div>   
   
-<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:1px"> 
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
@@ -424,15 +424,7 @@ Journal of Electronic Imaging (<em>JEI</em>), 2024, 33(4): : 043047 <br>
 
 <div class="colored-line"></div>   
 
-<div style="height: 20px;"></div>  
-      
-**Depth cue enhancement and guidance network for RGB-D salient object detection**  
-Xiang Li, **Qing Zhang\***, Weiqi Yan, Meng Dai  
-Journal of Visual Communication and Image Representation (***JVCIR***), 2023, 95: 103880    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院4区**
-</span>]  
-[\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)  [\[Code\]](https://github.com/ZhangQing0329/DEGNet)       
+<div style="height: 20px;"></div>       
       
 **CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection**  
 **Qing Zhang\***, Weiqi Yan  
@@ -456,7 +448,15 @@ IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 20
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
 **中科院1区, Top**
 </span>]  
-[\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)   
+[\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)  
+
+**Depth cue enhancement and guidance network for RGB-D salient object detection**  
+Xiang Li, **Qing Zhang\***, Weiqi Yan, Meng Dai  
+Journal of Visual Communication and Image Representation (***JVCIR***), 2023, 95: 103880    
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
+**中科院4区**
+</span>]  
+[\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)  [\[Code\]](https://github.com/ZhangQing0329/DEGNet)  
 
 **Motion Analysis and Reconstruction of Human Joint Regions for Sparse RGBD Images**   
 Tianzhen Dong, Yuntao Bai, **Qing Zhang**, Yi Zhang   
