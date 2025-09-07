@@ -266,13 +266,18 @@ IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</s
 </div>
 </div>         
       
-**Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection**  
-Jicheng Yang, **Qing Zhang\***, Yilin Zhao, Yuetong Li, Zeming Liu  
-IEEE International Conference on Multimedia and Expo (***ICME***), 2024   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-B**
-</span>]  
-[\[PDF\]](https://ieeexplore.ieee.org/document/10687766)  [\[Code\]](https://github.com/Jcogito/BIRNet)      
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:10px"> 
+<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/TCSVT-zhang2024.png" alt="network4" style="max-width:100%; height:auto;">
+</div>
+<div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">     
+<strong>Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection</strong><br>  
+Jicheng Yang, <strong>Qing Zhang*</strong>, Yilin Zhao, Yuetong Li, Zeming Liu<br>
+IEEE International Conference on Multimedia and Expo (<em>ICME</em>), 2024<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>] [<a href="https://github.com/Jcogito/BIRNet" target="_blank">Code</a>] [<a href="https://ieeexplore.ieee.org/document/10687766" target="_blank">PDF</a>]   
+</div>
+</div>     
        
 **Detecting Camouflaged Object via Cross-level Context Supplement**   
 **Qing Zhang\***, Weiqi Yan, Rui Zhao, Yanjiao Shi   
