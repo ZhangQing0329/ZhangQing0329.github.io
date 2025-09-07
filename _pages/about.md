@@ -266,7 +266,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</s
 </div>
 </div>         
       
-<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="display:flex; margin-bottom: 20px; height:160px;">
 <div style="flex:1;padding-right:10px"> 
 <img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/icme2024.png" alt="network5" style="max-width:100%; height:auto;">
 </div>
