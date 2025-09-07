@@ -205,39 +205,65 @@ The Chinese Conference on Pattern Recognition and Computer Vision (<em>PRCV</em>
 </div>
 </div>     
 
-**SAM2-LPNet: Saliency Guided and Laplacian Aware Fine-tuning of SAM2 for Weakly Supervised Salient Object Detection**       
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025    
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>SAM2-LPNet: Saliency Guided and Laplacian Aware Fine-tuning of SAM2 for Weakly Supervised Salient Object Detection</strong> <br>      
+The Chinese Conference on Pattern Recognition and Computer Vision (<em>PRCV</em>), 2025 <br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]   
+<strong>CCF-C</strong>
+</span>] 
+</div>
+</div>    
 
-**Collaborative Perception and Dual-stage Decoder Network for Camouflaged Object Detection**       
-The Chinese Conference on Pattern Recognition and Computer Vision (***PRCV***), 2025     
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Collaborative Perception and Dual-stage Decoder Network for Camouflaged Object Detection</strong><br>       
+The Chinese Conference on Pattern Recognition and Computer Vision (<em>PRCV</em>), 2025 <br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]  
+<strong>CCF-C</strong>
+</span>] 
+</div>
+</div>   
 
-**Intra- and Inter-Group Mutual Learning Network for Lightweight Camouflaged Object Detection**    
-Chenyu Zhuang, **Qing Zhang\***     
-International Conference on Intelligent Computing (***ICIC***), 2025: 164-176   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]   
-[\[PDF\]](https://link.springer.com/chapter/10.1007/978-981-96-9961-2_14)  
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Intra- and Inter-Group Mutual Learning Network for Lightweight Camouflaged Object Detection</strong><br>    
+Chenyu Zhuang, <strong>Qing Zhang*</strong><br>
+International Conference on Intelligent Computing (<em>ICIC</em>), 2025: 164-176 <br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] [<a href="https://link.springer.com/chapter/10.1007/978-981-96-9961-2_14" target="_blank">PDF</a>]   
+</div>
+</div>   
 
-**Rethinking Lightweight and Efficient Human Pose Esrimation with Star Operation Reconstruction**  
-Xu Zhoujie, Meng Dai\*, **Qing Zhang**, Huawen Liu   
-International Conference on Knowledge Science, Engineering and Management (***KSEM***), 2025  
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]      
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Rethinking Lightweight and Efficient Human Pose Esrimation with Star Operation Reconstruction</strong><br>  
+Xu Zhoujie, Meng Dai*, <strong>Qing Zhang</strong>, Huawen Liu <br>
+International Conference on Knowledge Science, Engineering and Management (<em>KSEM</em>), 2025 <br>  
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] 
+</div>
+</div>      
 
-**A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network**  
-Zhenjie Ji, Yanjiao Shi\*, **Qing Zhang**, Qiangqiang Zhou     
-International Conference on Artificial Neural Networks (***ICANN***), 2025   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]    
+<div style="display:flex; margin-bottom: 20px; height:150px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>A Camouflaged Object Dection Network with Global Cross-space Perception and Flexible Local Feature Refinement Network</strong><br>
+Zhenjie Ji, Yanjiao Shi*, <strong>Qing Zhang</strong>, Qiangqiang Zhou<br>
+International Conference on Artificial Neural Networks (<em>ICANN</em>), 2025<br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] 
+</div>
+</div>    
 
 
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2024</span>
@@ -279,37 +305,53 @@ IEEE International Conference on Multimedia and Expo (<em>ICME</em>), 2024<br>
 </div>
 </div>     
        
-**Detecting Camouflaged Object via Cross-level Context Supplement**   
-**Qing Zhang\***, Weiqi Yan, Rui Zhao, Yanjiao Shi   
-Applied Intelligence, 2024    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]  
-[\[PDF\]](https://link.springer.com/article/10.1007/s10489-024-05694-6)  [\[Code\]](https://github.com/ZhangQing0329/CCSNet)     
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Detecting Camouflaged Object via Cross-level Context Supplement</strong><br>
+<strong>Qing Zhang*</strong>, Weiqi Yan, Rui Zhao, Yanjiao Shi<br>
+Applied Intelligence, 2024 <br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong>
+</span>] [<a href="https://github.com/ZhangQing0329/CCSNet" target="_blank">Code</a>] [<a href="https://link.springer.com/article/10.1007/s10489-024-05694-6" target="_blank">PDF</a>]   
+</div>
+</div>       
       
-**BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection**  
-Chenwang Sun, **Qing Zhang\***, Chenyu Zhuang, Mingqian Zhang  
-Image and Vision Computing (***IMAVIS***), 2024, 147: 105048  
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)     
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection</strong><br>  
+Chenwang Sun, <strong>Qing Zhang*</strong>, Chenyu Zhuang, Mingqian Zhang<br>
+Image and Vision Computing (<em>IMAVIS</em>), 2024, 147: 105048<br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong>
+</span>] [<a href="https://github.com/ZhangQing0329/BMFNet" target="_blank">Code</a>] [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525" target="_blank">PDF</a>]   
+</div>
+</div>     
       
-**Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection**     
-Yilin Zhao, **Qing Zhang\***, Yuetong Li  
-Asian Conference on Computer Vision (***ACCV***), 2024.   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]  
-[\[Code\]](https://github.com/LinAyq/DCNet)  [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2024/papers/Zhao_Frequency_Learning_Network_with_Dual-Guidance_Calibration_for_Camouflaged_Object_Detection_ACCV_2024_paper.pdf)   
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection</strong><br> 
+Yilin Zhao, <strong>Qing Zhang*</strong>, Yuetong Li<br>
+Asian Conference on Computer Vision (<em>ACCV</em>), 2024. <br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] [<a href="https://github.com/LinAyq/DCNet" target="_blank">Code</a>] [<a href="https://openaccess.thecvf.com/content/ACCV2024/papers/Zhao_Frequency_Learning_Network_with_Dual-Guidance_Calibration_for_Camouflaged_Object_Detection_ACCV_2024_paper.pdf" target="_blank">PDF</a>]   
+</div>
+</div>   
       
-**Transformer-based Depth Optimization Network for RGB-D Salient Object Detection**   
-Lu Li, Yanjiao Shi\*, Jingyu Yang, Qiangqiang Zhou, **Qing Zhang**, Liu Cui  
-International Conference on Pattern Recognition (***ICPR***), 2024.   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-C**
-</span>]  
-[\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_28)  
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">       
+<strong>Transformer-based Depth Optimization Network for RGB-D Salient Object Detection</strong><br>   
+Lu Li, Yanjiao Shi*, Jingyu Yang, Qiangqiang Zhou, <strong>Qing Zhang</strong>, Liu Cui<br>  
+International Conference on Pattern Recognition (<em>ICPR</em>), 2024. <br>
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>] [<a href="https://link.springer.com/chapter/10.1007/978-3-031-78305-0_28" target="_blank">PDF</a>]   
+</div>
+</div>  
       
 **AFINet: Camouflaged object detection via attention fusion and interaction network**  
 **Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang\*  
