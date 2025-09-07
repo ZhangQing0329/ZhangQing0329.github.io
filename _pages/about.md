@@ -88,7 +88,7 @@ Knowledge-Based Systems (<em>KBS</em>), 2025, 314: 113158<br>
          
 <div style="display:flex; margin-bottom: 20px; height:160px;">
 <div style="flex:1;padding-right:10px"> 
-<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/icassp-zhao2025.png" alt="network2" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/icassp-zhao2025.png" alt="network3" style="max-width:100%; height:auto;">
 </div>
 <div style="flex:2.5; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)">     
 <strong>Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration</strong><br>   
