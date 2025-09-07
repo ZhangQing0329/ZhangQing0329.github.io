@@ -412,7 +412,7 @@ Journal of Electronic Imaging (<em>JEI</em>), 2024, 33(4): : 043047 <br>
 </span>] [<a href="https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-4/043047/D2Net--discriminative-feature-extraction-and-details-preservation-network-for/10.1117/1.JEI.33.4.043047.short" target="_blank">PDF</a>]   
 </div>
 </div>     
-
+        
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2023</span>
 <style>
   .colored-line {
