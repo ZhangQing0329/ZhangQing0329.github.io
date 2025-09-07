@@ -110,13 +110,16 @@ Neurocomputing (<em>NEURO</em>), 2025, 626: 129523<br>
 </div>
 </div>    
 
-**HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation**    
-Zhoujie Xu, Meng Dai\*, **Qing Zhang**, Xiaodi Jiang  
-Neurocomputing (***NEURO***), 2025, 619(28): 129154    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院2区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation</strong><br>
+Zhoujie Xu, Meng Dai*, <strong>Qing Zhang</strong>, Xiaodi Jiang<br>
+Neurocomputing (<em>NEURO</em>), 2025, 619(28): 129154<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>] [<a href="https://https://www.sciencedirect.com/science/article/pii/S0925231224019258" target="_blank">PDF</a>]   
+</div>
+</div>  
 
 <div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:1px"> 
