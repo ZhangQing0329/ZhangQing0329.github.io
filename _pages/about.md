@@ -73,7 +73,7 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 </div>
 </div>    
       
-<div style="display:flex; margin-bottom: 20px; height:155px;">
+<div style="display:flex; margin-bottom: 20px; height:150px;">
 <div style="flex:1;padding-right:10px"> 
 <img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/BDCL.png" alt="network2" style="max-width:100%; height:auto;">
 </div>
@@ -86,7 +86,7 @@ Knowledge-Based Systems (<em>KBS</em>), 2025, 314: 113158<br>
 </div>
 </div>    
          
-<div style="display:flex; margin-bottom: 20px; height:155px;">
+<div style="display:flex; margin-bottom: 20px; height:160px;">
 <div style="flex:1;padding-right:10px"> 
 <img src="https://raw.githubusercontent.com/ZhangQing0329/ZhangQing0329.github.io/master/_pages/images/icassp-zhao2025.png" alt="network2" style="max-width:100%; height:auto;">
 </div>
