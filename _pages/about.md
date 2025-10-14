@@ -663,6 +663,10 @@ Journal of Information Science and Engineering (***JISE***), 2012, 28(4): 641-65
 **Qing Zhang\***, Jiajun Lin    
 Optical Engineering, 2011, 50(7): 077001.
 
+<div style="height: 40px;"></div> 
+
+<a href="https://info.flagcounter.com/Qcxw"><img src="https://s01.flagcounter.com/map/Qcxw/size_s/txt_320EAB/border_F0F0F0/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
 
 <div style="display:none">
 A data-driven personal website
