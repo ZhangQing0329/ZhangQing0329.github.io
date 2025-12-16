@@ -106,6 +106,7 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 <strong>Camouflaged Object Detection via Frequency-aware Localization Perception and Boundary-aware Detail Enhancement</strong><br>
 Chenxi Zhang, <strong>Qing Zhang*</strong>, Wei He*, Jiayun Wu, Chenyu Zhuang<br> 
 IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2025<br>  
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>] 
 </div>
 </div>  
 
