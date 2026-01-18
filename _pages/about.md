@@ -74,7 +74,6 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 </div>
 </div> 
 
-
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2025</span>
 <style>
   .colored-line {
@@ -488,15 +487,22 @@ Journal of Electronic Imaging (<em>JEI</em>), 2024, 33(4): : 043047 <br>
 
 <div class="colored-line"></div>   
 
-<div style="height: 20px;"></div>       
-      
-**CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection**  
-**Qing Zhang\***, Weiqi Yan  
-IEEE International Conference on Multimedia and Expo (***ICME***), 2023: 2441-2446    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-B**
-</span>]  
-[\[PDF\]](https://ieeexplore.ieee.org/document/10219858) [\[Code\]](https://github.com/ZhangQing0329/CFANet)
+<div style="height: 20px;"></div>  
+
+<div style="display:flex; margin-bottom: 20px; height:110px;">
+<div style="flex:1;padding-right:10px">  
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection</strong><br>
+<strong>Qing Zhang*</strong>, Weiqi Yan<br>
+IEEE International Conference on Multimedia and Expo (<em>ICME</em>), 2023: 2441-2446<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong></span>]  [<a href="https://ieeexplore.ieee.org/document/10219858" target="_blank">PDF</a>] [<a href="https://github.com/ZhangQing0329/CFANet" target="_blank">Code</a>]      
+</div>
+</div> 
+
       
 **TCRNet: a trifurcated cascaded refinement network for salient object detection**  
 **Qing Zhang\***, Rui Zhao, Liqian Zhang  
