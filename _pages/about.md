@@ -521,35 +521,49 @@ IEEE Transactions on Circuits and Systems for Video Technology (<em>TCSVT</em>),
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation</strong><br>
-<strong>Jinghui Shi, Qing Zhang*</strong>, Yuhao Tang, Zhongqun Zhang<br>
+Jinghui Shi, <strong>Qing Zhang*</strong>, Yuhao Tang, Zhongqun Zhang<br>
 IEEE Transactions on Circuits and Systems for Video Technology (<em>TCSVT</em>), 2023, 33(1): 30-42<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top</strong></span>]  [<a href="https://ieeexplore.ieee.org/document/9852486/" target="_blank">PDF</a>]       
 </div>
 </div> 
 
 
-**Depth cue enhancement and guidance network for RGB-D salient object detection**  
-Xiang Li, **Qing Zhang\***, Weiqi Yan, Meng Dai  
-Journal of Visual Communication and Image Representation (***JVCIR***), 2023, 95: 103880    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院4区**
-</span>]  
-[\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)  [\[Code\]](https://github.com/ZhangQing0329/DEGNet)  
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Depth Cue Enhancement and Guidance Network for RGB-D Salient Object Detection</strong><br>
+Xiang Li, <strong>Qing Zhang*</strong>, Weiqi Yan, Meng Dai<br>
+Journal of Visual Communication and Image Representation (<em>JVCIR</em>), 2023, 95: 103880<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong></span>]  [<a href="https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X" target="_blank">PDF</a>] [<a href="https://github.com/ZhangQing0329/DEGNet" target="_blank">Code</a>]       
+</div>
+</div> 
 
-**Motion Analysis and Reconstruction of Human Joint Regions for Sparse RGBD Images**   
-Tianzhen Dong, Yuntao Bai, **Qing Zhang**, Yi Zhang   
-IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (***VRW***), 2023: 773-774   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**CCF-A**
-</span>]     
-[\[PDF\]](https://ieeexplore.ieee.org/document/10108739/)    
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Motion Analysis and Reconstruction of Human Joint Regions for Sparse RGBD Images</strong><br>
+Tianzhen Dong, Yuntao Bai, <strong>Qing Zhang</strong>, Yi Zhang<br>
+Interfaces Abstracts and Workshops (<em>VRW</em>), 2023: 773-774<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-A</strong></span>]  [<a href="https://ieeexplore.ieee.org/document/10108739/" target="_blank">PDF</a>]        
+</div>
+</div> 
+
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>SC2Net: Scale-aware Crowd Counting Network with Pyramid Dilated Convolution</strong><br>
+Lanjun Liang*, Huailin Zhao, Fangbo Zhou, <strong>Qing Zhang</strong>, Zhili Song, Qingxuan Shi<br>
+Applied Intelligence, 2023, 53(5): 5146-5159<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong></span>]        
+</div>
+</div>   
      
-**SC2Net: Scale-aware Crowd Counting Network with Pyramid Dilated Convolution**
-Lanjun Liang\*, Huailin Zhao, Fangbo Zhou, **Qing Zhang**, Zhili Song, Qingxuan Shi    
-Applied Intelligence, 2023, 53(5): 5146-5159   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]    
+
 
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2022</span>
 <style>
