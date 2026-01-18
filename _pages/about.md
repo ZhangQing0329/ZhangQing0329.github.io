@@ -664,39 +664,58 @@ Image and Vision Computing (<em>IMAVIS</em>), 2022, 117: 104337<br>
 
 <div class="colored-line"></div>   
 
-<div style="height: 20px;"></div>  
+<div style="height: 20px;"></div>
 
-**Global and local information aggregation network for edge-aware salient object detection**  
-**Qing Zhang\***, Liqian Zhang, Dong Wang, Yanjiao Shi, Jianjun Lin  
-Journal of Visual Communication and Image Representation (***JVCIR***), 2021, 81: 103350    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院4区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002303)          
+<div style="display:flex; margin-bottom: 20px; height:110px;">
+<div style="flex:1;padding-right:10px">  
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Global and Local Information Aggregation Network for Edge-aware Salient Object Detection</strong><br>
+<strong>Qing Zhang*</strong>, Liqian Zhang, Dong Wang, Yanjiao Shi, Jianjun Lin<br>
+Journal of Visual Communication and Image Representation (<em>JVCIR</em>), 2021, 81: 103350<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区, Top</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320321002303" target="_blank">PDF</a>]      
+</div>
+</div> 
+
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Deep Saliency Detection via Spatial-wise Dilated Convolutional Attention</strong><br>
+Wenzhao Cui, <strong>Qing Zhang*</strong>, Baochuan Zuo<br>
+Neurocomputing (<em>NEURO</em>), 2021, 81: 103350<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区, Top</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221003179" target="_blank">PDF</a>]      
+</div>
+</div>          
        
-**Deep saliency detection via spatial-wise dilated convolutional attention**  
-Wenzhao Cui, **Qing Zhang\***, Baochuan Zuo  
-Neurocomputing, 2021, 445: 35-49     
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院2区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221003179)        
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Edge-aware Salient Object Detection Network via Context Guidance</strong><br>
+Xiaowei Chen, <strong>Qing Zhang*</strong>, Liqian Zhang<br>
+Image and Vision Computing (<em>IMAVIS</em>), 2021, 110: 104166<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区, Top</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885621000718" target="_blank">PDF</a>]      
+</div>
+</div>         
       
-**Edge-aware salient object detection network via context guidance**  
-Xiaowei Chen, **Qing Zhang\***, Liqian Zhang  
-Image and Vision Computing (***IMAVIS***), 2021, 110: 104166    
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621000718)     
-     
-**Salient object detection network with multi-scale feature  refinement and boundary feedback**   
-**Qing Zhang\***, Xiang Li   
-Image and Vision Computing (***IMAVIS***), 2021, 116: 104326      
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院3区**
-</span>]  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002316)     
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Salient Object Detection Network with Multi-scale Feature Refinement and Boundary Feedback</strong><br>
+<strong>Qing Zhang*</strong>, Xiang Li<br>
+Image and Vision Computing (<em>IMAVIS</em>), 2021, 116: 104326<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区, Top</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885621002316" target="_blank">PDF</a>]      
+</div>
+</div>        
+   
 
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2020</span>
 <style>
@@ -709,12 +728,23 @@ Image and Vision Computing (***IMAVIS***), 2021, 116: 104326
 
 <div class="colored-line"></div>   
 
-<div style="height: 20px;"></div>    
+<div style="height: 20px;"></div> 
+
+<div style="display:flex; margin-bottom: 20px; height:110px;">
+<div style="flex:1;padding-right:10px">  
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Attention and Boundary Guided Salient Object Detection</strong><br>
+<strong>Qing Zhang*</strong>, Yanjiao Shi, Xueqin Zhang<br>
+Pattern Recognition (<em>PR</em>), 2020, 107: 107-484<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区, Top</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320302879" target="_blank">PDF</a>]      
+</div>
+</div> 
   
-**Attention and boundary guided salient object detection**   
-**Qing Zhang\***, Yanjiao Shi, Xueqin Zhang  
-Pattern Recognition (***PR***), 2020, 107: 107-484    
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302879)     
+   
       
 **Attentive feature integration network for detecting salient objects in images**    
 **Qing Zhang\***, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang    
