@@ -36,7 +36,7 @@ $(document).ready(function () {
   },
     didResize = false;
 
-  bumpIt();
+  //bumpIt();
 
   $(window).resize(function () {
     didResize = true;
