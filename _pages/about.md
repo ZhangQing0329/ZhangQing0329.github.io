@@ -159,9 +159,10 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 <strong>Camouflaged Object Detection via Frequency-aware Localization Perception and Boundary-aware Detail Enhancement</strong><br>
 Chenxi Zhang, <strong>Qing Zhang*</strong>, Wei He*, Jiayun Wu, Chenyu Zhuang<br> 
 IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2025<br>  
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>] [<a href="https://ieeexplore.ieee.org/document/11310818" target="_blank">PDF</a>]
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>] [<a href="https://ieeexplore.ieee.org/document/11310818" target="_blank">PDF</a>] [<a href="https://github.com/bbdjj/FBNet" target="_blank">Code</a>] 
 </div>
 </div>  
+
 
 <div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:1px"> 
@@ -193,7 +194,7 @@ Neurocomputing (<em>NEURO</em>), 2025, 619(28): 129154<br>
 Yuyan Liu, <strong>Qing Zhang*</strong>, Yilin Zhao, Yanjiao Shi<br>
 The Visual Computer (<em>TVC</em>), 2025<br>
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong>
-</span>] [<a href="https://github.com/boom118/BSnet" target="_blank">Code</a>] </span>] [<a href="https://link.springer.com/article/10.1007/s00371-025-03798-9" target="_blank">PDF</a>]   
+</span>] [<a href="https://github.com/boom118/BSnet" target="_blank">Code</a>] [<a href="https://link.springer.com/article/10.1007/s00371-025-03798-9" target="_blank">PDF</a>]   
 </div>
 </div>     
 
