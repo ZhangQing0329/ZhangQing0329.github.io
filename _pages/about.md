@@ -34,9 +34,10 @@ Selected Papers
 <div class="colored-line"></div>   
 
 <div style="height: 20px;"></div>
-
+<!--
 <div style="display:flex; margin-bottom: 20px; height:110px;">
 <div style="flex:1;padding-right:10px">  
+-->
 
 <div style="display:flex; margin-bottom: 20px; height:140px;">
 <div style="flex:1;padding-right:1px"> 
