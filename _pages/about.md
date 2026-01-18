@@ -510,19 +510,23 @@ IEEE International Conference on Multimedia and Expo (<em>ICME</em>), 2023: 2441
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>TCRNet: A Trifurcated Cascaded Refinement Network for Salient Object Detection</strong><br>
 <strong>Qing Zhang*</strong>, Rui Zhao, Liqian Zhang<br>
-IEEE Transactions on Circuits and Systems for Video Technology (<em>TCSVT</em>), 2023: 2441-2446<br> 
+IEEE Transactions on Circuits and Systems for Video Technology (<em>TCSVT</em>), 2023, 33(1): 298-311<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top</strong></span>]  [<a href="https://ieeexplore.ieee.org/document/9861608/" target="_blank">PDF</a>] [<a href="https://github.com/ZhangQing0329/TCRNet" target="_blank">Code</a>]      
 </div>
 </div> 
 
-           
-**Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation**  
-Jinghui Shi, **Qing Zhang\***, Yuhao Tang, Zhongqun Zhang  
-IEEE Transactions on Circuits and Systems for Video Technology (***TCSVT***), 2023, 33(1): 30-42   
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;">
-**中科院1区, Top**
-</span>]  
-[\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)  
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation</strong><br>
+<strong>Jinghui Shi, Qing Zhang*</strong>, Yuhao Tang, Zhongqun Zhang<br>
+IEEE Transactions on Circuits and Systems for Video Technology (<em>TCSVT</em>), 2023, 33(1): 30-42<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top</strong></span>]  [<a href="https://ieeexplore.ieee.org/document/9852486/" target="_blank">PDF</a>]       
+</div>
+</div> 
+
 
 **Depth cue enhancement and guidance network for RGB-D salient object detection**  
 Xiang Li, **Qing Zhang\***, Weiqi Yan, Meng Dai  
