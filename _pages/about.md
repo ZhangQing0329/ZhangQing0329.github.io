@@ -744,12 +744,17 @@ Pattern Recognition (<em>PR</em>), 2020, 107: 107-484<br>
 </div>
 </div> 
   
-   
-      
-**Attentive feature integration network for detecting salient objects in images**    
-**Qing Zhang\***, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang    
-Neurocomputing, 2020, 411: 268-281    
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309346)     
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Attentive Feature Integration Network for Detecting Salient Objects in Images</strong><br>
+<strong>Qing Zhang*</strong>, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang<br>
+Neurocomputing (<em>NEORO</em>), 2020, 411: 268-281<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220309346" target="_blank">PDF</a>]      
+</div>
+</div>     
+          
 
 <span style="color:rgba(16, 28, 119, 1); font-size: 22px;font-weight: bold;">2019 and Before</span>
 <style>
@@ -762,19 +767,45 @@ Neurocomputing, 2020, 411: 268-281
 
 <div class="colored-line"></div>   
 
-<div style="height: 20px;"></div>    
-   
-**Multi-level and multi-scale deep saliency network for salient object detection**  
-**Qing Zhang\***, Jiajun Lin, Jingjing Zhuge, Wenhao Yuan    
-Journal of Visual Communication and Image Representation (***JVCIR***), 2019, 59: 415-424  
-      
-**Kernel null-space-based abnormal event detection using hybrid motion information**  
-Yanjiao Shi, Yugen Yi, **Qing Zhang\***, Jiangyan Dai   
-Journal of Electronic Imaging (***JEI***), 2019, 28(2): 021011  
+<div style="height: 20px;"></div> 
 
-**Hierarchical Salient Object Detection Network with Dense Connections**   
-**Qing Zhang\***, Jianchen Shi, Baochuan Zuo, Meng Dai, Tianzhen Dong, Xiao Qi   
-International Conference on Image and Graphics (***ICIG***), 2019: 454-466     
+<div style="display:flex; margin-bottom: 20px; height:110px;">
+<div style="flex:1;padding-right:10px">  
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Multi-level and Multi-scale Deep Saliency Network for Salient Object Detection</strong><br>
+<strong>Qing Zhang*</strong>, Jiajun Lin, Jingjing Zhuge, Wenhao Yuan<br>
+Journal of Visual Communication and Image Representation (<em>JVCIR</em>), 2019, 59: 415-424<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320319300434" target="_blank">PDF</a>]      
+</div>
+</div> 
+   
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Kernel Null-space-based Abnormal Event Detection using Hybrid Motion Information</strong><br>
+Yanjiao Shi, Yugen Yi, <strong>Qing Zhang*</strong>, Jiangyan Dai<br>
+Journal of Electronic Imaging (<em>JEI</em>), 2019, 28(2): 021011<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong></span>]  [<a href="https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-28/issue-2/021011/Kernel-null-space-based-abnormal-event-detection-using-hybrid-motion/10.1117/1.JEI.28.2.021011.short" target="_blank">PDF</a>]      
+</div>
+</div> 
+      
+
+<div style="display:flex; margin-bottom: 20px; height:100px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Hierarchical Salient Object Detection Network with Dense Connections</strong><br>
+<strong>Qing Zhang*</strong>, Jianchen Shi, Baochuan Zuo, Meng Dai, Tianzhen Dong, Xiao Qi<br>
+International Conference on Image and Graphics (<em>ICIG</em>), 2019: 454-466<br>      
+</div>
+</div> 
+  
       
 **Salient object detection via compactness and objectness cues**   
 **Qing Zhang\***, Jiajun Lin, Wenju Li, Yanjiao Shi, Guogang Cao  
