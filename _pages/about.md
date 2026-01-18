@@ -68,7 +68,7 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>Graph-Mamba Collaborative Learning Network for Camouflaged Object Detection</strong><br>
-Qiang Yu, <strong>Qing Zhang*</strong>, Jingming Wang, Jiayun Wu, Shenghua Zhong<br>
+Jingming Wang, <strong>Qing Zhang*</strong>, Qiang Yu, Jiayun Wu, Shenghua Zhong<br>
 International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
 </span>]    
