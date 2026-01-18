@@ -22,6 +22,59 @@ Selected Papers
 </span>
 <div style="height: 10px;"></div>  
 
+<span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2026</span>
+<style>
+  .colored-line {
+    border: 0;
+    height: 2px;
+    background-color: rgb(201, 85, 184);
+  }
+</style>
+
+<div class="colored-line"></div>   
+
+<div style="height: 20px;"></div>
+
+<div style="display:flex; margin-bottom: 20px; height:110px;">
+<div style="flex:1;padding-right:10px">  
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Bidirectional Class-Tex and Vision Interaction Network for Camouflaged Object Detection</strong><br>
+Jiayun Wu, Chenxi Zhang, <strong>Qing Zhang*</strong>, Shenhua Zhong<br>
+International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]    
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>DualExperNet: Disparity-aware Semantic-Detail Complementary for Camouflaged Object Detection</strong><br>
+Qiang Yu, <strong>Qing Zhang*</strong>, Jingming Wang, Jiayun Wu, Shenghua Zhong<br>
+International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]    
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Graph-Mamba Collaborative Learning Network for Camouflaged Object Detection</strong><br>
+Qiang Yu, <strong>Qing Zhang*</strong>, Jingming Wang, Jiayun Wu, Shenghua Zhong<br>
+International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]    
+</div>
+</div> 
+
+
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2025</span>
 <style>
   .colored-line {
