@@ -794,7 +794,7 @@ Journal of Electronic Imaging (<em>JEI</em>), 2019, 28(2): 021011<br>
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong></span>]  [<a href="https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-28/issue-2/021011/Kernel-null-space-based-abnormal-event-detection-using-hybrid-motion/10.1117/1.JEI.28.2.021011.short" target="_blank">PDF</a>]      
 </div>
 </div> 
-      
+
 
 <div style="display:flex; margin-bottom: 20px; height:100px;">
 <div style="flex:1;padding-right:1px"> 
@@ -805,43 +805,113 @@ Journal of Electronic Imaging (<em>JEI</em>), 2019, 28(2): 021011<br>
 International Conference on Image and Graphics (<em>ICIG</em>), 2019: 454-466<br>      
 </div>
 </div> 
+
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Salient Object Detection via Compactness and Objectness Cues</strong><br>
+<strong>Qing Zhang*</strong>, Jiajun Lin, Wenju Li, Yanjiao Shi, Guogang Cao<br>
+The Visual Computer (<em>TVC</em>), 2018, 34(4): 473-489<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong></span>]  [<a href="https://link.springer.com/article/10.1007/s00371-017-1354-0" target="_blank">PDF</a>]      
+</div>
+</div> 
   
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Salient Object Detection via Color and Texture Cues</strong><br>
+<strong>Qing Zhang*</strong>, Jiajun Lin, Yanyun Tao, Wenju Li, Yanjiao Shi<br>
+Neurocomputing (<em>NEURO</em>), 2017, 3(21): 35-48<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>]  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231217303880" target="_blank">PDF</a>]      
+</div>
+</div>  
       
-**Salient object detection via compactness and objectness cues**   
-**Qing Zhang\***, Jiajun Lin, Wenju Li, Yanjiao Shi, Guogang Cao  
-The Visual Computer (***TVC***), 2018, 34(4): 473-489  
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Two-stage Absorbing Markov Chain for Salient Object Detection</strong><br>
+<strong>Qing Zhang*</strong>, Desi Luo, Wenju Li, Yanjiao Shi, Jiajun Lin<br>
+International Conference on Image Processing (<em>ICIP</em>), 2017: 895-899<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong></span>]  [<a href="https://ieeexplore.ieee.org/document/8296410" target="_blank">PDF</a>]      
+</div>
+</div>  
       
-**Salient object detection via color and texture cues**  
-**Qing Zhang\***, Jiajun Lin, Yanyun Tao, Wenju Li, Yanjiao Shi    
-Neurocomputing (***NEURO***), 2017, 3(21): 35-48  
-      
-**Two-stage absorbing markov chain for salient object detection**   
-**Qing Zhang\***, Desi Luo, Wenju Li, Yanjiao Shi, Jiajun Lin    
-International Conference on Image Processing (***ICIP***), 2017: 895-899   
 
-**A systematic EHW approach to the evolutionary design of sequential circuits**   
-Yanyun Tao\*, **Qing Zhang**, Lijun Zhang, Yuzhen Zhang    
-Soft Computing, 2013, 20(12): 5025-5038        
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>A Systematic EHW Approach to The Evolutionary Design of Sequential Circuits</strong><br>
+Yanyun Tao*, <strong>Qing Zhang</strong>, Lijun Zhang, Yuzhen Zhang<br>
+Soft Computing, 2013, 20(12): 5025-5038<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院3区</strong></span>]  [<a href="https://link.springer.com/article/10.1007/s00500-015-1791-5" target="_blank">PDF</a>]      
+</div>
+</div>   
 
-**Salient Object Detection via Structure Extraction and Region Contrast**    
-**Qing Zhang\***, Jiajun Lin, Xiaodan Li    
-Journal of Information Science and Engineering (***JISE***),2016, 32(6): 1435-1454    
 
-**Saliency-based abnormal event detection in crowded scenes**   
-Yanjiao Shi\*, Yunxiang Liu, **Qing Zhang**, Yugen Yi, Wenju Li      
-Journal of Electronic Imaging (***JEI***), 2016, 25(6): 61608   
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Salient Object Detection via Structure Extraction and Region Contrast</strong><br>
+<strong>Qing Zhang*</strong>, Jiajun Lin, Xiaodan Li<br>
+Journal of Information Science and Engineering (<em>JISE</em>), 2016, 32(6): 1435-1454<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong></span>]      
+</div>
+</div>        
 
-**Structure extraction and region contrast based salient object detection**    
-**Qing Zhang\***, Jiajun Lin, Zhigang Xie    
-International Conference on Digital Image Processing (***ICDIP***), 2016.   
 
-**Exemplar-based image inpainting using color distribution analysis**   
-**Qing Zhang\***, Jiajun Lin    
-Journal of Information Science and Engineering (***JISE***), 2012, 28(4): 641-654.    
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Saliency-based Abnormal Event Detection in Crowded Scenes</strong><br>
+Yanjiao Shi*, Yunxiang Liu, <strong>Qing Zhang</strong>, Yugen Yi, Wenju Li<br>
+Journal of Electronic Imaging (<em>JEI</em>), 2016, 25(6): 61608<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong></span>]      
+</div>
+</div>    
 
-**Image inpainting via variation of variances and linear weighted filling-in**   
-**Qing Zhang\***, Jiajun Lin    
-Optical Engineering, 2011, 50(7): 077001.
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Structure Extraction and Region Contrast based Salient Object Detection</strong><br>
+<strong>Qing Zhang*</strong>, Jiajun Lin, Zhigang Xie<br>
+International Conference on Digital Image Processing (<em>ICDIP</em>), 2016 <br>      
+</div>
+</div>  
+
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Exemplar-based Image Inpainting using Color Distribution Analysis</strong><br>
+<strong>Qing Zhang*</strong>, Jiajun Lin<br>
+Journal of Information Science and Engineering (<em>JISE</em>), 2012, 28(4): 641-654<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong></span>]      
+</div>
+</div>     
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Image Inpainting via Variation of Variances and Linear Weighted Filling-in</strong><br>
+<strong>Qing Zhang*</strong>, Jiajun Lin<br>
+Optical Engineering, 2011, 50(7): 077001<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院4区</strong></span>]      
+</div>
+</div>    
+
 
 <div style="height: 40px;"></div> 
 
