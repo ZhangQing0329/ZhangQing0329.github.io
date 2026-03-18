@@ -43,6 +43,42 @@ Selected Papers
 <div style="flex:1;padding-right:1px"> 
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Patches to Pixels: Collaborative Mining and Implicit Decoding for Unsupervised Camouflaged Object Detection</strong><br>
+Tong Chang, <strong>Qing Zhang*</strong>, Xueqin Zhang, Ziyi Guo, Huiying Qiao<br>
+IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]    
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Rethinking Depth-Aware Learning for Weakly Supervised Camouflaged Object Detection</strong><br>
+Xinyi Zhao, <strong>Qing Zhang*</strong>, Yanjiao Shi<br>
+IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]    
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>SAM-based Self-Refining Framework for Weakly-Supervised Camouflaged Object Detection</strong><br>
+Xinglin Han, <strong>Qing Zhang*</strong>, Luyang Tian, Shenhua Zhong<br>
+IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]    
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>Bidirectional Class-Tex and Vision Interaction Network for Camouflaged Object Detection</strong><br>
 Jiayun Wu, Chenxi Zhang, <strong>Qing Zhang*</strong>, Shenhua Zhong<br>
 International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
