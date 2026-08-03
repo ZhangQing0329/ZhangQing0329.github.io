@@ -43,11 +43,22 @@ Selected Papers
 <div style="flex:1;padding-right:1px"> 
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Camouflaged Object Detection via Frequency-aware Localization Perception and Boundary-aware Detail Enhancement</strong><br>
+Chenxi Zhang, <strong>Qing Zhang*</strong>, Wei He*, Jiayun Wu, Chenyu Zhuang<br> 
+IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2026<br>  
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top期刊</strong></span>] [<a href="https://ieeexplore.ieee.org/document/11310818" target="_blank">PDF</a>] [<a href="https://github.com/bbdjj/FBNet" target="_blank">Code</a>] 
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>Patches to Pixels: Collaborative Mining and Implicit Decoding for Unsupervised Camouflaged Object Detection</strong><br>
 Tong Chang, <strong>Qing Zhang*</strong>, Xueqin Zhang, Ziyi Guo, Huiying Qiao<br>
 IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
-</span>]    
+</span>] [<a href="https://github.com/ct1204/UCOD-P2P" target="_blank">Code</a>]         
 </div>
 </div> 
 
@@ -71,7 +82,7 @@ IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br>
 Xinglin Han, <strong>Qing Zhang*</strong>, Luyang Tian, Shenhua Zhong<br>
 IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
-</span>]    
+</span>] [<a href="https://github.com/hxl-2000/SR-SAM" target="_blank">Code</a>]            
 </div>
 </div> 
 
@@ -83,7 +94,8 @@ IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br>
 Jiayun Wu, Chenxi Zhang, <strong>Qing Zhang*</strong>, Shenhua Zhong<br>
 International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
-</span>]    
+</span>] [<a href="https://ieeexplore.ieee.org/document/11464160" target="_blank">PDF</a>]   
+</div>   
 </div>
 </div> 
 
@@ -95,11 +107,11 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 Qiang Yu, <strong>Qing Zhang*</strong>, Jingming Wang, Jiayun Wu, Shenghua Zhong<br>
 International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
-</span>]    
+</span>] [<a href="https://ieeexplore.ieee.org/document/11465016" target="_blank">PDF</a>]   
 </div>
 </div> 
 
-<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="display:flex; margin-bottom: 20px; height:120px;">
 <div style="flex:1;padding-right:1px"> 
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
@@ -107,9 +119,47 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 Jingming Wang, <strong>Qing Zhang*</strong>, Qiang Yu, Jiayun Wu, Shenghua Zhong<br>
 International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
-</span>]    
+</span>] [<a href="https://ieeexplore.ieee.org/document/11463561" target="_blank">PDF</a>]    
+</div>
+</div>  
+
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Disentangled Pseudo-Visible Prior Learning for Infrared Small Target Detection</strong><br>
+Luyang Tian, <strong>Qing Zhang*</strong>, Xiaowei Chen, Xinglin Han, Yan Li<br>
+The Chinese Conference on Pattern Recognition and Computer Vision (<em>PRCV</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>]   
 </div>
 </div> 
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Cross-View Consistency Learning for Semi-Supervised Camouflaged Object Detection</strong><br>
+Tong Sun, Yanjiao Shi*, <strong>Qing Zhang</strong><br>
+IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]            
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Conditional Edge Diffusion Model for Weakly-supervised Salient Object Detection</strong><br>
+Runtian Cao, Yanjiao Shi*, <strong>Qing Zhang</strong><br>
+IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
+</span>]            
+</div>
+</div> 
+
 
 <span style="color:rgb(16, 28, 119); font-size: 22px;font-weight: bold;">2025</span>
 <style>
@@ -186,18 +236,7 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-B</strong>
 </span>] [<a href="https://ieeexplore.ieee.org/document/10887964" target="_blank">PDF</a>]    
 </div>
-</div>    
-
-<div style="display:flex; margin-bottom: 20px; height:140px;">
-<div style="flex:1;padding-right:1px"> 
-</div>
-<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
-<strong>Camouflaged Object Detection via Frequency-aware Localization Perception and Boundary-aware Detail Enhancement</strong><br>
-Chenxi Zhang, <strong>Qing Zhang*</strong>, Wei He*, Jiayun Wu, Chenyu Zhuang<br> 
-IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2025<br>  
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院2区</strong></span>] [<a href="https://ieeexplore.ieee.org/document/11310818" target="_blank">PDF</a>] [<a href="https://github.com/bbdjj/FBNet" target="_blank">Code</a>] 
-</div>
-</div>  
+</div>     
 
 
 <div style="display:flex; margin-bottom: 20px; height:140px;">
