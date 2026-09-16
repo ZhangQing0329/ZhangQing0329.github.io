@@ -45,7 +45,7 @@ Selected Papers
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection</strong><br>
 Yuetong Li, <strong>Qing Zhang*</strong>, Yilin Zhao， Zeming Liu, Gongyang Li<br> 
-IEEE Transactions on Circuits and Systems for Video Technology (<em>TCE</em>), 2026<br>  
+IEEE Transactions on Circuits and Systems for Video Technology (<em>TCSVT</em>), 2026<br>  
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top期刊</strong></span>]    
 </div>
 </div> 
