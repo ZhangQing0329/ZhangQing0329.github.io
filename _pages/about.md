@@ -44,7 +44,7 @@ Selected Papers
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection</strong><br>
-Yuetong Li, <strong>Qing Zhang*</strong>, Yilin Zhao， Zeming Liu, Gongyang Li<br> 
+Yuetong Li, <strong>Qing Zhang*</strong>, Yilin Zhao， Zeming Liu, Gongyang Li*<br> 
 IEEE Transactions on Circuits and Systems for Video Technology (<em>TCSVT</em>), 2026<br>  
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top期刊</strong></span>]    
 </div>
@@ -142,6 +142,30 @@ International Conference on Acoustics, Speech, and Signal Processing (<em>ICASSP
 <strong>Disentangled Pseudo-Visible Prior Learning for Infrared Small Target Detection</strong><br>
 Luyang Tian, <strong>Qing Zhang*</strong>, Xiaowei Chen, Xinglin Han, Yan Li<br>
 The Chinese Conference on Pattern Recognition and Computer Vision (<em>PRCV</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>]   
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>UBMNet: Uncertainty-driven bidirectional Mamba Network for Infrared Small Target Detection</strong><br>
+Yan Li, Luyang Tian, <strong>Qing Zhang</strong>, Xiaowei Chen*, Qiao Ye<br>
+Asia Conference on Computer Vision (<em>ACCV</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
+</span>]   
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:120px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>FreeCOD: Finding Camouflaged Objects without Task-Specific Learning</strong><br>
+Minghao Sun, <strong>Qing Zhang*</strong>, Zeming Liu, Xiaowei Chen*<br>
+Asia Conference on Computer Vision (<em>ACCV</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-C</strong>
 </span>]   
 </div>
