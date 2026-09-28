@@ -65,6 +65,29 @@ IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2026<br>
 <div style="flex:1;padding-right:1px"> 
 </div>
 <div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>FimMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation</strong><br>
+Chenxi Zhang, Ziliang Gan, Youwei Pang, <strong>Qing Zhang</strong>, Rongjunchen Zhang<br>
+Conference on Neural Information Processing Systems (<em>NeurIPS</em>), 2026<br> 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-A</strong>
+</span>] [<a href="https://github.com/ct1204/UCOD-P2P" target="_blank">Code</a>]         
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
+<strong>Controllable-Complexity Block Partition Decision Using a Two-Module Scheme for Fast VVC Intra Coding</strong><br>
+Zheyan Deng, Yufen Yang <strong>Qing Zhang</strong>, Tao Lin<br> 
+IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2026<br>  
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top期刊</strong></span>] [<a href="https://ieeexplore.ieee.org/document/11310818" target="_blank">PDF</a>] [<a href="https://github.com/bbdjj/FBNet" target="_blank">Code</a>] 
+</div>
+</div> 
+
+<div style="display:flex; margin-bottom: 20px; height:140px;">
+<div style="flex:1;padding-right:1px"> 
+</div>
+<div style="flex:500; padding-left:10px; border-left:4px solid rgba(139, 28, 136, 1)"> 
 <strong>Patches to Pixels: Collaborative Mining and Implicit Decoding for Unsupervised Camouflaged Object Detection</strong><br>
 Tong Chang, <strong>Qing Zhang*</strong>, Xueqin Zhang, Ziyi Guo, Huiying Qiao<br>
 IEEE International Conference on Multimedia & Expo (<em>ICME</em>), 2026<br> 
