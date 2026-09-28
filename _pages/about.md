@@ -69,7 +69,7 @@ IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2026<br>
 Chenxi Zhang, Ziliang Gan, Youwei Pang, <strong>Qing Zhang</strong>, Rongjunchen Zhang<br>
 Conference on Neural Information Processing Systems (<em>NeurIPS</em>), 2026<br> 
 [<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>CCF-A</strong>
-</span>] [<a href="https://github.com/ct1204/UCOD-P2P" target="_blank">Code</a>]         
+</span>]      
 </div>
 </div> 
 
@@ -80,7 +80,7 @@ Conference on Neural Information Processing Systems (<em>NeurIPS</em>), 2026<br>
 <strong>Controllable-Complexity Block Partition Decision Using a Two-Module Scheme for Fast VVC Intra Coding</strong><br>
 Zheyan Deng, Yufen Yang <strong>Qing Zhang</strong>, Tao Lin<br> 
 IEEE Transactions on Consumer Electronics (<em>TCE</em>), 2026<br>  
-[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top期刊</strong></span>] [<a href="https://ieeexplore.ieee.org/document/11310818" target="_blank">PDF</a>] [<a href="https://github.com/bbdjj/FBNet" target="_blank">Code</a>] 
+[<span style="color:rgba(144, 55, 73, 1); font-weight: bold;"><strong>中科院1区，Top期刊</strong></span>]  
 </div>
 </div> 
 
